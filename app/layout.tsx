@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Nunito } from "next/font/google";
 import "./globals.css";
 
@@ -8,6 +8,13 @@ const nunito = Nunito({
   display: "swap",
   variable: "--font-nunito",
 });
+
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: "#1769d2",
+};
 
 export const metadata: Metadata = {
   title: "Magistr Seçim | Uyğun ixtisasını tap",
