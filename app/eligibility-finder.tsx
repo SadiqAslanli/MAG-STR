@@ -68,10 +68,74 @@ type UniversityResult = {
 type SearchMode = "eligibility" | "chance";
 type FilterMode = "all" | "free" | "paid" | "insufficient";
 
-function normalize(value: string) {
-  return value
+const RUSSIAN_TO_AZ_DICT: Record<string, string> = {
+  "учитель русского языка": "rus dili və ədəbiyyatı müəllimliyi",
+  "преподаватель русского языка": "rus dili və ədəbiyyatı müəllimliyi",
+  "русский язык и литература": "rus dili və ədəbiyyatı müəllimliyi",
+  "русский язык": "rus dili",
+  "русская филология": "filologiya rus dili",
+  "учитель": "müəllimliyi",
+  "преподаватель": "müəllimliyi",
+  "переводчик": "tərcümə",
+  "перевод": "tərcümə",
+  "филология": "filologiya",
+  "экономика": "iqtisadiyyat",
+  "компьютерная инженерия": "kompüter mühəndisliyi",
+  "компьютерные науки": "kompüter elmləri",
+  "компьютер": "kompüter",
+  "инженерия": "mühəndisliyi",
+  "юриспруденция": "hüquqşünaslıq",
+  "право": "hüquqşünaslıq",
+  "международные отношения": "beynəlxalq münasibətlər",
+  "финансы": "maliyyə",
+  "менеджмент": "menecment",
+  "маркетинг": "marketinq",
+  "бухгалтерия": "mühasibat",
+  "педагогика": "pedaqogika",
+  "психология": "psixologiya",
+  "журналистика": "jurnalistika",
+  "туризм": "turizm",
+  "дизайн": "dizayn",
+  "архитектура": "memarlıq",
+  "биология": "biologiya",
+  "химия": "kimya",
+  "физика": "fizika",
+  "математика": "riyaziyyat",
+  "история": "tarix",
+  "география": "coğrafiya",
+  "экология": "ekologiya",
+};
+
+function translateSearchQuery(input: string): string {
+  let q = input.trim().toLowerCase();
+  for (const [rus, az] of Object.entries(RUSSIAN_TO_AZ_DICT)) {
+    if (q.includes(rus)) {
+      q = q.replace(new RegExp(rus, "gi"), az);
+    }
+  }
+  // Typos & phonetic variants like "rus ili" -> "rus dili", "muelim" -> "müəllim"
+  q = q.replace(/\brus\s+ili\b/gi, "rus dili");
+  q = q.replace(/muel+im/gi, "müəllim");
+  return q;
+}
+
+function getQueryTokens(input: string): string[] {
+  const translated = translateSearchQuery(input);
+  return translated
     .toLocaleLowerCase("az")
-    .replace(/\bvə\b/g, "va")
+    .replace(/və|va|ve/g, " ")
+    .replace(/[^a-z0-9əıöüşçğ\s]/g, " ")
+    .split(/\s+/)
+    .filter(Boolean)
+    .map((w) => normalize(w))
+    .filter((w) => w.length > 1);
+}
+
+function normalize(value: string) {
+  const translated = translateSearchQuery(value);
+  return translated
+    .toLocaleLowerCase("az")
+    .replace(/və|va|ve/g, "ve")
     .replace(/ə/g, "e")
     .replace(/ı/g, "i")
     .replace(/ö/g, "o")
@@ -118,14 +182,20 @@ function similarity(left: string, right: string) {
 function cleanBachelorName(name: string) {
   return name
     .replace(/^[\s*•·\-]+/, "")
+    .replace(/\bD\s*M\s*-\s*2024\b/gi, "")
     .replace(/\bva\b/gi, "və")
     .replace(/\bvo\b/gi, "və")
-    .replace(/\bgomiqayrrma\b/gi, "gəmiqayırma")
-    .replace(/\bgami\b/gi, "gəmi")
-    .replace(/\btamiri\b/gi, "təmiri")
+    .replace(/mü\s*ə\s*llimliyi/gi, "müəllimliyi")
+    .replace(/mü\s*ə\s*ndisliyi/gi, "mühəndisliyi")
+    .replace(/mühə\s*ndisliyi/gi, "mühəndisliyi")
     .replace(/mühondis/gi, "mühəndis")
     .replace(/mühandis/gi, "mühəndis")
     .replace(/miihandis/gi, "mühəndis")
+    .replace(/gə\s*miqay\s*ırma/gi, "gəmiqayırma")
+    .replace(/gomiqayrrma/gi, "gəmiqayırma")
+    .replace(/qurğ\s+u/gi, "qurğu")
+    .replace(/nə\s+qliyyat/gi, "nəqliyyat")
+    .replace(/sə\s+rrüfat/gi, "təsərrüfat")
     .replace(/\s+/g, " ")
     .trim();
 }
@@ -317,12 +387,17 @@ export default function EligibilityFinder({
 
     for (const mapping of mappings) {
       for (const specialty of mapping.bachelorSpecialties) {
+        // Discard meaningless fragments without code
+        if (!specialty.code && (!specialty.name || specialty.name.length < 10 || /^(dili\)|üzrə|etmə|ı ı ı|sistemlər|hiyyə|ləri\b|lər\b)/.test(specialty.name))) {
+          continue;
+        }
+
         const name = cleanBachelorName(specialty.name);
         const id = specialty.code
           ? `code:${specialty.code}|name:${normalize(name)}`
           : `name:${normalize(name)}`;
 
-        if (!name) {
+        if (!name || name.length < 4) {
           continue;
         }
 
@@ -343,23 +418,59 @@ export default function EligibilityFinder({
     if (!normalizedQuery || selected) {
       return [];
     }
+    const queryTokens = getQueryTokens(query);
 
     return bachelorOptions
       .map((option) => {
-        const searchable = normalize(`${option.code ?? ""} ${option.name}`);
-        const startsWith = searchable.startsWith(normalizedQuery);
-        const includes = searchable.includes(normalizedQuery);
-        const score = includes
-          ? startsWith
-            ? 2
-            : 1
-          : similarity(query, `${option.code ?? ""} ${option.name}`);
+        const normCode = normalize(option.code ?? "");
+        const normName = normalize(option.name);
+        const searchable = `${normCode}${normName}`;
+
+        let score = 0;
+        // Exact or prefix code match
+        if (normCode && (normCode === normalizedQuery || normCode.startsWith(normalizedQuery))) {
+          score += 60;
+        }
+        // Name starts with query
+        if (normName.startsWith(normalizedQuery)) {
+          score += 40;
+        } else if (searchable.startsWith(normalizedQuery)) {
+          score += 35;
+        }
+        // Substring match in name
+        if (normName.includes(normalizedQuery)) {
+          score += 25;
+        } else if (searchable.includes(normalizedQuery)) {
+          score += 20;
+        }
+        // Token match
+        if (queryTokens.length > 0) {
+          let matched = 0;
+          for (const token of queryTokens) {
+            if (normName.includes(token) || normCode.includes(token)) {
+              matched++;
+            }
+          }
+          if (matched === queryTokens.length) {
+            score += 30;
+          } else if (matched > 0) {
+            score += matched * 6;
+          }
+        }
+
+        // Fuzzy similarity fallback
+        if (score === 0) {
+          const sim = similarity(query, `${option.code ?? ""} ${option.name}`);
+          if (sim >= 0.45) {
+            score = sim * 10;
+          }
+        }
 
         return { option, score };
       })
-      .filter(({ score }) => score >= 0.43)
+      .filter(({ score }) => score > 0)
       .sort((a, b) => b.score - a.score || a.option.name.localeCompare(b.option.name, "az"))
-      .slice(0, 8)
+      .slice(0, 10)
       .map(({ option }) => option);
   }, [bachelorOptions, query, selected]);
 
