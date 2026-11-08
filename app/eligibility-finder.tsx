@@ -38,6 +38,7 @@ type BachelorOption = {
   id: string;
   code: string | null;
   name: string;
+  matchName: string;
 };
 
 type ResultSpecialty = {
@@ -200,6 +201,19 @@ function cleanBachelorName(name: string) {
     .trim();
 }
 
+function getBachelorOptionName(specialty: BachelorSpecialty) {
+  const cleanedName = cleanBachelorName(specialty.name);
+  if (
+    specialty.code === "050121" &&
+    normalize(cleanedName) === normalize("Rus dili və ədəbiyyatı müəllimliyi") &&
+    /^\s*050121\b/i.test(specialty.sourceText) &&
+    /xarici\s+dil/i.test(specialty.sourceText)
+  ) {
+    return cleanBachelorName(specialty.sourceText.replace(/^\s*050121\s*/i, ""));
+  }
+  return cleanedName;
+}
+
 function getUniversityResults(
   mappings: FinderMapping[],
   selected: BachelorOption,
@@ -214,11 +228,11 @@ function getUniversityResults(
       if (selected.code && specialty.code) {
         return (
           specialty.code === selected.code &&
-          similarity(specialty.name, selected.name) >= 0.72
+          similarity(specialty.name, selected.matchName) >= 0.72
         );
       }
 
-      return similarity(specialty.name, selected.name) >= 0.82;
+      return similarity(specialty.name, selected.matchName) >= 0.82;
     });
 
     if (!applies) {
@@ -392,7 +406,7 @@ export default function EligibilityFinder({
           continue;
         }
 
-        const name = cleanBachelorName(specialty.name);
+        const name = getBachelorOptionName(specialty);
         const id = specialty.code
           ? `code:${specialty.code}|name:${normalize(name)}`
           : `name:${normalize(name)}`;
@@ -403,7 +417,12 @@ export default function EligibilityFinder({
 
         const current = options.get(id);
         if (!current || name.length > current.name.length) {
-          options.set(id, { id, code: specialty.code, name });
+          options.set(id, {
+            id,
+            code: specialty.code,
+            name,
+            matchName: cleanBachelorName(specialty.name),
+          });
         }
       }
     }
