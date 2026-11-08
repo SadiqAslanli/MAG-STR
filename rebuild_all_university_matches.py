@@ -101,7 +101,8 @@ for uni in dj.get('universities', []):
             'freeAptitudeScore': spec.get('freeAptitudeScore'),
         })
 
-JUNK_TARGETS = {
+# Comprehensive junk list:
+STRICT_JUNK = {
     'leri', 'riyyesi', 'nezeriyyesi', 'sistemler', 'sistemleri', 'techizati',
     'edilmesi', 'olunmasi', 'idareolunmasi', 'tehlukesizliyi', 'sivetarixi', 'neti',
     'debiyyati', 'rcume', 'tsunasliq', 'uzre', 'dirme', 'etme', 'tler', 'ruzre',
@@ -110,7 +111,14 @@ JUNK_TARGETS = {
     'muhendisliyi', 'ixtisasi', 'tedrisi', 'metodikasi', 'metodologiyasi',
     'biyyatsunasli', 'muellimliyi', 'biyyatmuellimliyi', 'ii', 'iii', 'iiii',
     'menecment', 'biznes', 'iqtisadiyyat', 'huquq', 'senaye', 'riyye',
-    'magistraturaixtisaslasmasi'
+    'magistraturaixtisaslasmasi', 'rinidareolunmasi', 'ninidareolunmasi',
+    'ninidareolunmas', 'rinidareolunmas', 'idareolunmas',
+    'lerinintarixi', 'srlerintarixi', 'srleritarixi', 'liistifadeolunmasi',
+    'rvediplomatiya', 'iqtisadiyyatinmesi', 'intellektualsistemler',
+    'biologiya', 'psixologiya', 'sosiologiya', 'fizika', 'kimya', 'riyaziyyat',
+    'tarix', 'ekologiya', 'cografiya', 'felsefe', 'filologiya', 'pedaqogika',
+    'marketinq', 'maliyye', 'dizayn', 'antropologiya', 'arxeologiya',
+    'informasiyasistemleri', 'kitabxana'
 }
 
 def clean_spec_name(s):
@@ -160,32 +168,26 @@ def merge_spec_lines(lines):
             
     return merged
 
-# Rebuild matches for all mappings
 total_matches_built = 0
 
 for m in db['mappings']:
     b_text = " ".join([b.get('name', '') for b in m.get('bachelorSpecialties', [])])
     b_langs = detect_langs(b_text)
     
-    # Collect raw master specs
     raw_targets = []
     for emp in m.get('eligibleMasterPrograms', []):
         mc = emp.get('code')
         mn = emp.get('name') or ''
         raw_specs = [l.strip() for l in (emp.get('specializationsText') or '').split('\n') if l.strip()]
         merged_specs = merge_spec_lines(raw_specs)
-        
-        # Update specializationsText in mapping so it's clean
         emp['specializationsText'] = "\n".join(merged_specs)
         
-        # Don't add generic "Magistratura ixtisaslaşması" or generic single words as standalone targets
-        if mn and normalize(mn) not in JUNK_TARGETS and len(normalize(mn)) >= 6:
-            raw_targets.append((mc, mn, mn))
+        # Only add specific specializations that are NOT in STRICT_JUNK and length >= 8
         for sp in merged_specs:
-            if normalize(sp) not in JUNK_TARGETS and len(normalize(sp)) >= 6:
+            norm = normalize(sp)
+            if norm not in STRICT_JUNK and len(norm) >= 8:
                 raw_targets.append((mc, mn, sp))
                 
-    # Now match against uni catalog
     uni_matches = []
     seen = set()
     
@@ -194,7 +196,7 @@ for m in db['mappings']:
         norm_ts = normalize(clean_ts)
         norm_ts_stripped = normalize(strip_fillers(clean_ts))
         
-        if len(norm_ts) < 6 or norm_ts in JUNK_TARGETS:
+        if len(norm_ts) < 8 or norm_ts in STRICT_JUNK:
             continue
             
         bg_ts = get_bigrams(norm_ts)
@@ -212,39 +214,49 @@ for m in db['mappings']:
             
             # LANGUAGE GATE:
             if u_langs:
-                # If university offering is language-specific:
-                # Effective target MUST match that language!
                 if not (effective_langs & u_langs):
                     continue
             else:
-                # If target is language-specific, but university offering has NO language:
                 if target_langs:
                     continue
                     
-            # Compute similarity:
             sim = 0.0
             if norm_ts == u['norm'] or (norm_ts_stripped and norm_ts_stripped == u['norm_stripped']):
                 sim = 1.0
             else:
-                # Bigram sim on stripped names
                 if bg_ts_stripped and u['bigrams_stripped']:
                     ov = len(bg_ts_stripped & u['bigrams_stripped'])
                     tot = len(bg_ts_stripped) + len(u['bigrams_stripped'])
                     if tot > 0:
                         sim = max(sim, (2.0 * ov) / tot)
-                # Bigram sim on full names
                 if bg_ts and u['bigrams']:
                     ov = len(bg_ts & u['bigrams'])
                     tot = len(bg_ts) + len(u['bigrams'])
                     if tot > 0:
                         sim = max(sim, (2.0 * ov) / tot)
                         
-            # Exact phrase containment if meaningful length
-            if sim < 0.72 and len(norm_ts_stripped) >= 14 and len(u['norm_stripped']) >= 14:
+            if sim < 0.78 and len(norm_ts_stripped) >= 16 and len(u['norm_stripped']) >= 16:
                 if norm_ts_stripped in u['norm_stripped'] or u['norm_stripped'] in norm_ts_stripped:
                     sim = max(sim, 0.85)
+
+            # Suffix topic protection (prevent "Dinin sosiologiyası" matching "Siyasətin sosiologiyası")
+            for suffix in ['sosiologiya', 'tarix', 'psixologiya', 'huquq', 'iqtisadiyyat', 'senaye', 'menecment', 'sistem']:
+                rx = re.compile(rf'({suffix}[a-z0-9]*)$')
+                m_ts = rx.search(norm_ts)
+                m_u = rx.search(u['norm'])
+                if m_ts and m_u:
+                    prefix_ts = norm_ts[:m_ts.start()]
+                    prefix_u = u['norm'][:m_u.start()]
+                    if prefix_ts and prefix_u:
+                        bg_p_ts = get_bigrams(prefix_ts)
+                        bg_p_u = get_bigrams(prefix_u)
+                        p_sim = (2.0 * len(bg_p_ts & bg_p_u)) / (len(bg_p_ts) + len(bg_p_u)) if (len(bg_p_ts) + len(bg_p_u)) > 0 else 0
+                        if p_sim < 0.6 and prefix_ts not in prefix_u and prefix_u not in prefix_ts:
+                            sim = 0.0
+                            break
                     
-            if sim >= 0.72:
+            # Require higher confidence (>= 0.78)
+            if sim >= 0.78:
                 seen.add(key)
                 uni_matches.append({
                     'university': u['university'],
@@ -267,7 +279,7 @@ for m in db['mappings']:
     m['universityMatches'] = uni_matches
     total_matches_built += len(uni_matches)
 
-print(f"Total university matches across all mappings: {total_matches_built}")
+print(f"Total clean university matches across all mappings: {total_matches_built}")
 
 with open('magistr_uygunluq.json', 'w', encoding='utf-8') as f:
     json.dump(db, f, ensure_ascii=False, indent=2)

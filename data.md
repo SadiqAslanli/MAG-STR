@@ -104,19 +104,16 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Elektroenergetika | 44 | 44 |
 | Azərbaycan Texniki Universiteti | Elektroenergetika | 51 | 51 |
+| Azərbaycan Texniki Universiteti | Davamlı elektroenergetika sistemləri | 47.5 | 45 |
 | Bakı Mühəndislik Universiteti | Elektroenergetika | 41.5 | 40 |
 | Milli Aviasiya Akademiyası | Elektroenergetika | 46 | 46 |
 | Naxçıvan Dövlət Universiteti | Elektroenergetika | 43 | 40 |
 | Mingəçevir Dövlət Universiteti | Elektroenergetika | 42 | 40 |
-| Azərbaycan Texniki Universiteti | Davamlı elektroenergetika sistemləri | 47.5 | 45 |
 | Azərbaycan Texniki Universiteti | Elektrik təchizatı (sahələr üzrə) | 47.5 | 40 |
 | Azərbaycan Dövlət Dəniz Akademiyası | Gəmilərin elektrik təchizatı sistemləri | 50.5 | 50.5 |
 | Sumqayıt Dövlət Universiteti | Elektrik təchizatı (sahələr üzrə) | 44 | 40 |
 | Azərbaycan Texniki Universiteti | Elektrik stansiyaları | 45.5 | 45.5 |
-| Milli Aviasiya Akademiyası | Uçuş aparatlarının elektrik avadanlıqları və sistemləri | 65.5 | 65.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Sənaye qurğuları və texnoloji komplekslərin elektrik intiqalı | 42.5 | 42.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Yüksək gərginliklər texnikası | 43.5 | 43.5 |
-| Azərbaycan Texniki Universiteti | Yüksək gərginliklər texnikası | 43.5 | 40 |
 
 </details>
 
@@ -180,12 +177,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Elektroenergetika | 44 | 44 |
-| Azərbaycan Texniki Universiteti | Elektroenergetika | 51 | 51 |
-| Bakı Mühəndislik Universiteti | Elektroenergetika | 41.5 | 40 |
-| Milli Aviasiya Akademiyası | Elektroenergetika | 46 | 46 |
-| Naxçıvan Dövlət Universiteti | Elektroenergetika | 43 | 40 |
-| Mingəçevir Dövlət Universiteti | Elektroenergetika | 42 | 40 |
 | Azərbaycan Texniki Universiteti | Elektrik təchizatı (sahələr üzrə) | 47.5 | 40 |
 | Sumqayıt Dövlət Universiteti | Elektrik təchizatı (sahələr üzrə) | 44 | 40 |
 
@@ -225,7 +216,6 @@ if match:
 | Azərbaycan Texniki Universiteti | Elektrik stansiyaları | 45.5 | 45.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Enerji maşınlarının istehsalı | 42.5 | 40 |
 | Azərbaycan Texniki Universiteti | Enerji maşınlarının istehsalı | 43 | 40 |
-| Bakı Mühəndislik Universiteti | Soyuducu, kompressor maşın və qurğuları | None | 40 |
 
 </details>
 
@@ -341,9 +331,7 @@ if match:
 | Azərbaycan Texniki Universiteti | Metalşünaslıq və metalların termiki emalı | 53.5 | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Materialşünaslıq və materiallar texnologiyası | 41 | 40 |
 | Bakı Mühəndislik Universiteti | Materialşünaslıq və materiallar texnologiyası | None | 40 |
-| Bakı Dövlət Universiteti | Radiasiya materialşünaslığı | 58.5 | 58.5 |
 | Azərbaycan Texniki Universiteti | Maşınqayırmada materialşünaslıq | 47.5 | 40 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | İnşaat materialşünaslığı | 52.5 | 52.5 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
 
 </details>
@@ -394,15 +382,13 @@ if match:
 | Azərbaycan Texniki Universiteti | Poliqrafiya maşınları | 46 | 40 |
 | Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası | 40.5 | 40 |
 | Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası İngilis dilində | None | 40 |
-| Azərbaycan Texniki Universiteti | Maşınqayırmada kompüter texnologiyaları | 44.5 | 44.5 |
 | Azərbaycan Texniki Universiteti | Cihazqayırma texnologiyası | 53 | 45.5 |
+| Azərbaycan Texniki Universiteti | Maşınqayırmada kompüter texnologiyaları | 44.5 | 44.5 |
 | Azərbaycan Texniki Universiteti | Maşınqayırmada kompüter texnologiyaları İngilis dilində | 51.5 | 40 |
 | Bakı Mühəndislik Universiteti | Tökmə və qaynaq istehsalının maşın və avadanlıqları | None | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Maşınların təmir texnologiyası və servisi | 53 | 53 |
 | Bakı Mühəndislik Universiteti | Maşınların təmir texnologiyası və servisi | 51 | 51 |
 | Azərbaycan Texniki Universiteti | Yüksək səmərəli emal proseslərinin texnologiyası və maşınları | 40.5 | 40 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 
 </details>
 
@@ -473,8 +459,6 @@ if match:
 | Azərbaycan Memarlıq və İnşaat Universiteti | Maşınların təmir texnologiyası və servisi | 53 | 53 |
 | Bakı Mühəndislik Universiteti | Maşınların təmir texnologiyası və servisi | 51 | 51 |
 | Azərbaycan Texniki Universiteti | Yüksək səmərəli emal proseslərinin texnologiyası və maşınları | 40.5 | 40 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
@@ -518,9 +502,7 @@ if match:
 | Azərbaycan Texniki Universiteti | Metalşünaslıq və metalların termiki emalı | 53.5 | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Materialşünaslıq və materiallar texnologiyası | 41 | 40 |
 | Bakı Mühəndislik Universiteti | Materialşünaslıq və materiallar texnologiyası | None | 40 |
-| Bakı Dövlət Universiteti | Radiasiya materialşünaslığı | 58.5 | 58.5 |
 | Azərbaycan Texniki Universiteti | Maşınqayırmada materialşünaslıq | 47.5 | 40 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | İnşaat materialşünaslığı | 52.5 | 52.5 |
 
 </details>
 
@@ -570,12 +552,7 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Neft-mədən maşın və avadanlıqları | 41 | 40 |
-| Bakı Mühəndislik Universiteti | Tökmə və qaynaq istehsalının maşın və avadanlıqları | None | 40 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Neft-kimya maşın və avadanlıqları | 40.5 | 40 |
 | Azərbaycan Texniki Universiteti | Texnoloji maşın və avadanlıqların istehsalı, təmiri və texniki xidmət texnologiyaları | 44.5 | 40 |
-| Azərbaycan Texniki Universiteti | Hidromexanika və hidravlik maşınlar | None | 40 |
-| Bakı Mühəndislik Universiteti | Hidromexanika və hidravlik maşınlar | 43 | 40 |
 | Azərbaycan Texniki Universiteti | Maye və qazların nəqli avadanlıqları | 42.5 | 40 |
 | Bakı Mühəndislik Universiteti | Maye və qazların nəqli avadanlıqları | 50 | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Maşınların möhkəmliyi və dinamikası | 46 | 40 |
@@ -632,10 +609,9 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Texniki Universiteti | Sənaye elektronikası | 42 | 40 |
+| Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
 | Azərbaycan Texniki Universiteti | Güc elektronikası | 43 | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Güc elektronikası | 43.5 | 40 |
-| Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
-| Bakı Dövlət Universiteti | Kvant elektronikası | 58.5 | 58.5 |
 | Xəzər Universiteti | Güc elektronikası İngilis dilində | None | 40 |
 | Bakı Dövlət Universiteti | Media və kommunikasiya sistemləri | 56 | 55 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Çoxkanallı telekommunikasiya sistemləri | 49 | 40 |
@@ -646,7 +622,8 @@ if match:
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi İngilis dilində | None | 40 |
 | Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
 | Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
+| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -716,7 +693,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
 | Azərbaycan Dövlət Dəniz Akademiyası | Gəmiqayırma | 48.5 | 48.5 |
 
 </details>
@@ -786,7 +762,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Texniki Universiteti | Dəmiryolu təsərrüfatı və onun istismarı | 54.5 | 40 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Dəmiryolu təsərrüfatı və onun istismarı | None | 40 |
-| Azərbaycan Texniki Universiteti | Texnoloji maşın və avadanlıqların istehsalı, təmiri və texniki xidmət texnologiyaları | 44.5 | 40 |
 
 </details>
 
@@ -817,7 +792,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Əməliyyatların idarə edilməsi | None | 47.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Əməliyyatların idarə edilməsi İngilis dilində | None | 45 |
 
 </details>
 
@@ -994,9 +968,6 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Rabitə qovşaqları və kommutasiya sistemləri | None | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Çoxkanallı telekommunikasiya sistemləri | 49 | 40 |
 | Azərbaycan Texniki Universiteti | Çoxkanalh telekommunikasiya sistemləri | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
-| Azərbaycan Texniki Universiteti | Şəbəkələr, rabitə sistemləri və informasiyanın paylanması | 62.5 | 62.5 |
-| Bakı Mühəndislik Universiteti | Şəbəkələr, rabitə sistemləri və informasiyanın paylanması | 52.5 | 52.5 |
 
 </details>
 
@@ -1055,13 +1026,11 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası | 40.5 | 40 |
 | Azərbaycan Texniki Universiteti | Cihazqayırma texnologiyası | 53 | 45.5 |
 | Azərbaycan Texniki Universiteti | Rabitə qovşaqları və kommutasiya sistemləri | 52 | 52 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Rabitə qovşaqları və kommutasiya sistemləri | None | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Çoxkanallı telekommunikasiya sistemləri | 49 | 40 |
 | Azərbaycan Texniki Universiteti | Çoxkanalh telekommunikasiya sistemləri | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
 | Azərbaycan Texniki Universiteti | Sənaye elektronikası | 42 | 40 |
 | Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
 
@@ -1109,12 +1078,7 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Rabitə qovşaqları və kommutasiya sistemləri | None | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Çoxkanallı telekommunikasiya sistemləri | 49 | 40 |
 | Azərbaycan Texniki Universiteti | Çoxkanalh telekommunikasiya sistemləri | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
-| Azərbaycan Texniki Universiteti | Şəbəkələr, rabitə sistemləri və informasiyanın paylanması | 62.5 | 62.5 |
-| Bakı Mühəndislik Universiteti | Şəbəkələr, rabitə sistemləri və informasiyanın paylanması | 52.5 | 52.5 |
 | Azərbaycan Texniki Universiteti | Sənaye elektronikası | 42 | 40 |
-| Azərbaycan Texniki Universiteti | Güc elektronikası | 43 | 40 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Güc elektronikası | 43.5 | 40 |
 | Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
 
 </details>
@@ -1187,10 +1151,7 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Rabitə qovşaqları və kommutasiya sistemləri | None | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Çoxkanallı telekommunikasiya sistemləri | 49 | 40 |
 | Azərbaycan Texniki Universiteti | Çoxkanalh telekommunikasiya sistemləri | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
 | Azərbaycan Texniki Universiteti | Sənaye elektronikası | 42 | 40 |
-| Azərbaycan Texniki Universiteti | Güc elektronikası | 43 | 40 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Güc elektronikası | 43.5 | 40 |
 | Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
 
 </details>
@@ -1283,8 +1244,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Su ehtiyatlarının inteqrasiyalı idarə edilməsi | None | 45 |
-| Bakı Dövlət Universiteti | Geomorfologiya | 56 | 56 |
-| Bakı Dövlət Universiteti | Arxeologiya | 62.5 | 58 |
 
 </details>
 
@@ -1377,8 +1336,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya texnologiyalarının idarə edilməsi | None | 60 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya texnologiyalarının idarə edilməsi İngilis dilində | None | 58.5 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları | 64.5 | 64.5 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | İnformasiya texnologiyalarının idarə edilməsi | None | 58.5 |
 | “Odlar Yurdu” Universiteti | İnformasiya texnologiyalarının idarə edilməsi | None | 47.5 |
 | Bakı Dövlət Universiteti | Tətbiqi riyaziyyat | 66 | 66 |
@@ -1419,22 +1376,11 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) | None | 40 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları | 64.5 | 64.5 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları İngilis dilində | 65 | 65 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 67.5 | 67.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları İngilis dilində | 71 | 71 |
-| Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi | None | 40 |
 | Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
-| Bakı Dövlət Universiteti | İdarəetmədə informasiya sistemləri | 71.5 | 71.5 |
-| Bakı Dövlət Universiteti | Kitabxana informasiya-axtarış sistemləri | None | 50 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İdarəetmədə informasiya sistemləri | 70 | 70 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) İngilis dilində | 75 | 51.5 |
-| Azərbaycan Texniki Universiteti | İdarəetmədə informasiya sistemləri | 72 | 72 |
-| *... və daha 16 təhsil müəssisəsi* | | | |
+| Milli Aviasiya Akademiyası | Aerokosmik informasiya sistemləri | 63.5 | 63.5 |
 
 </details>
 
@@ -1483,22 +1429,22 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) | None | 40 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları | 64.5 | 64.5 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları İngilis dilində | 65 | 65 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 67.5 | 67.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları İngilis dilində | 71 | 71 |
-| Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi | None | 40 |
 | Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
+| Milli Aviasiya Akademiyası | Aerokosmik informasiya sistemləri | 63.5 | 63.5 |
+| Azərbaycan Texniki Universiteti | İntellektual sistemlər | 70.5 | 70.5 |
+| Azərbaycan Texniki Universiteti | İntellektual sistemlər İngilis dilində | 68.5 | 68.5 |
+| Azərbaycan Dövlət İqtisad Universiteti | İntellektual sistemlər | 76.5 | 76.5 |
+| Gəncə Dövlət Universiteti | İntellektual sistemlər | 57.5 | 57.5 |
+| Xəzər Universiteti | İntellektual sistemlər İngilis dilində | 65.5 | 65.5 |
 | Bakı Dövlət Universiteti | İdarəetmədə informasiya sistemləri | 71.5 | 71.5 |
-| Bakı Dövlət Universiteti | Kitabxana informasiya-axtarış sistemləri | None | 50 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | İdarəetmədə informasiya sistemləri | 70 | 70 |
+| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) | None | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) İngilis dilində | 75 | 51.5 |
 | Azərbaycan Texniki Universiteti | İdarəetmədə informasiya sistemləri | 72 | 72 |
-| *... və daha 34 təhsil müəssisəsi* | | | |
+| *... və daha 11 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -1535,22 +1481,22 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları | 64.5 | 64.5 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları İngilis dilində | 65 | 65 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 67.5 | 67.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları İngilis dilində | 71 | 71 |
-| Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi | None | 40 |
 | Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
+| Milli Aviasiya Akademiyası | Aerokosmik informasiya sistemləri | 63.5 | 63.5 |
+| Azərbaycan Texniki Universiteti | İntellektual sistemlər | 70.5 | 70.5 |
+| Azərbaycan Texniki Universiteti | İntellektual sistemlər İngilis dilində | 68.5 | 68.5 |
+| Azərbaycan Dövlət İqtisad Universiteti | İntellektual sistemlər | 76.5 | 76.5 |
+| Gəncə Dövlət Universiteti | İntellektual sistemlər | 57.5 | 57.5 |
+| Xəzər Universiteti | İntellektual sistemlər İngilis dilində | 65.5 | 65.5 |
 | Bakı Dövlət Universiteti | İdarəetmədə informasiya sistemləri | 71.5 | 71.5 |
-| Bakı Dövlət Universiteti | Kitabxana informasiya-axtarış sistemləri | None | 50 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | İdarəetmədə informasiya sistemləri | 70 | 70 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) | None | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) İngilis dilində | 75 | 51.5 |
 | Azərbaycan Texniki Universiteti | İdarəetmədə informasiya sistemləri | 72 | 72 |
-| *... və daha 38 təhsil müəssisəsi* | | | |
+| *... və daha 14 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -1586,10 +1532,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət İqtisad Universiteti | İdarəetmə sistemlərinin proqram təminatının təhlükəsizliyi | 75.5 | 47 |
-| Bakı Dövlət Universiteti | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 67 | 67 |
-| Azərbaycan Texniki Universiteti | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 64 | 64 |
-| Azərbaycan Dövlət İqtisad Universiteti | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 73 | 73 |
-| Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 78 | 78 |
 | Bakı Dövlət Universiteti | Tətbiqi riyaziyyat | 66 | 66 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tətbiqi riyaziyyat | 63.5 | 63.5 |
 
@@ -1623,8 +1565,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Bina və qurğuların memarlığı | 41 | 41 |
-| Bakı Mühəndislik Universiteti | Bina və qurğuların memarlığı | 41 | 41 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Landşaft memarlığı | 40 | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Memarlıq mühitinin dizaynı | 43.5 | 43.5 |
 | Bakı Mühəndislik Universiteti | Memarlıq mühitinin dizaynı | 49 | 49 |
@@ -1799,11 +1739,8 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Kvant elektronikası | 58.5 | 58.5 |
-| Azərbaycan Texniki Universiteti | Sənaye elektronikası | 42 | 40 |
 | Azərbaycan Texniki Universiteti | Güc elektronikası | 43 | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Güc elektronikası | 43.5 | 40 |
-| Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
 | Xəzər Universiteti | Güc elektronikası İngilis dilində | None | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Şəhər infrastrukturunda ağıllı texnologiyalar | None | 44.5 |
 
@@ -1902,29 +1839,6 @@ if match:
   - stilik-qaz tə chizatı
   - rin avtomatlaş dırılmasımühəndisliyi
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Aqrokimya və torpaq münbitliyinin idarə olunması | 56.5 | 56.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnsan resurslarının idarə olunması | None | 56.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnsan resurslarının idarə olunması İngilis dilində | None | 51 |
-| Azərbaycan Texniki Universiteti | İnsan resurslarının idarə olunması | None | 54 |
-| Azərbaycan Texniki Universiteti | İnsan resurslarının idarə olunması İngilis dilində | None | 45 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Su ehtiyatlarının idarə olunması və mühafizəsi | 58.5 | 47.5 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Su ehtiyatlarının idarə olunması və mühafizəsi İngilis dilində | 58.5 | 54 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | İnsan resurslarının idarə olunması | None | 55 |
-| Azərbaycan Dövlət İqtisad Universiteti | Brendin idarə olunması | None | 45 |
-| Azərbaycan Dövlət İqtisad Universiteti | İnsan resurslarının idarə olunması | None | 56.5 |
-| Azərbaycan Dövlət İqtisad Universiteti | İnsan resurslarının idarə olunması İngilis dilində | None | 58 |
-| Bakı Mühəndislik Universiteti | İnsan resurslarının idarə olunması | None | 49.5 |
-| Milli Aviasiya Akademiyası | Aviasiya təhlükəsizliyinin idarə olunması | 62.5 | 48.5 |
-| Milli Aviasiya Akademiyası | Hava nəqliyyatı hərəkətinin idarə olunması İngilis dilində | None | 40 |
-| Bakı Ali Neft Məktəbi | İnsan resurslarının idarə olunması | None | 67 |
-| *... və daha 9 təhsil müəssisəsi* | | | |
-
-</details>
-
 ---
 
 #### Blok 7 (Minimal bal: `40`, Səhifə: 11)
@@ -1987,8 +1901,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Materialşünaslıq və materiallar texnologiyası | 41 | 40 |
 | Bakı Mühəndislik Universiteti | Materialşünaslıq və materiallar texnologiyası | None | 40 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 
 </details>
 
@@ -2016,9 +1928,7 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Materialşünaslıq və materiallar texnologiyası | 41 | 40 |
 | Bakı Mühəndislik Universiteti | Materialşünaslıq və materiallar texnologiyası | None | 40 |
-| Bakı Dövlət Universiteti | Radiasiya materialşünaslığı | 58.5 | 58.5 |
 | Azərbaycan Texniki Universiteti | Maşınqayırmada materialşünaslıq | 47.5 | 40 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | İnşaat materialşünaslığı | 52.5 | 52.5 |
 
 </details>
 
@@ -2142,8 +2052,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Bakı Dövlət Universiteti | Neft kimyası | 67 | 67 |
 | Sumqayıt Dövlət Universiteti | Neft kimyası | 51 | 51 |
 | Bakı Mühəndislik Universiteti | Əsas üzvi sintezin kimyası və texnologiyası | 59 | 54.5 |
@@ -2157,7 +2065,8 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Polimerlərin kimyəvi texnologiyası | 56.5 | 56.5 |
 | Sumqayıt Dövlət Universiteti | Polimerlərin kimyəvi texnologiyası | 64 | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Polimer əsaslı kompozit materialların emalı texnologiyası | 56.5 | 56.5 |
-| *... və daha 2 təhsil müəssisəsi* | | | |
+| Azərbaycan Texniki Universiteti | Polimer əsaslı kompozit materialların emalı texnologiyası | 56 | 56 |
+| Azərbaycan Dövlət Neft və Sənaye Universiteti | Kimya texnologiyasının proses və aparatları | 61 | 61 |
 
 </details>
 
@@ -2194,8 +2103,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Kimyəvi ekspertiza | 73.5 | 73.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Neft-kimya sintezinin texnologiyası | 64 | 64 |
 | Bakı Mühəndislik Universiteti | Əsas üzvi sintezin kimyası və texnologiyası | 59 | 54.5 |
 | Bakı Mühəndislik Universiteti | Əsas üzvi sintezin kimyası və texnologiyası İngilis dilində | 70.5 | 40 |
@@ -2208,7 +2115,7 @@ if match:
 | Sumqayıt Dövlət Universiteti | Polimerlərin kimyəvi texnologiyası | 64 | 40 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Polimer əsaslı kompozit materialların emalı texnologiyası | 56.5 | 56.5 |
 | Azərbaycan Texniki Universiteti | Polimer əsaslı kompozit materialların emalı texnologiyası | 56 | 56 |
-| *... və daha 1 təhsil müəssisəsi* | | | |
+| Azərbaycan Dövlət Neft və Sənaye Universiteti | Kimya texnologiyasının proses və aparatları | 61 | 61 |
 
 </details>
 
@@ -2277,8 +2184,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Neft emalı texnologiyası | 66.5 | 66.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Neft emalı texnologiyası | 68.5 | 68.5 |
 | Bakı Ali Neft Məktəbi | Neft və qaz texnologiyası İngilis dilində | 75 | 75 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Meliorasiya, rekultivasiya və torpaq mühafizəsi | 58.5 | 46.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
@@ -2292,7 +2197,9 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| *... və daha 23 təhsil müəssisəsi* | | | |
+| Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
+| Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
+| *... və daha 9 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2361,7 +2268,7 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
-| *... və daha 14 təhsil müəssisəsi* | | | |
+| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2412,7 +2319,7 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
-| *... və daha 19 təhsil müəssisəsi* | | | |
+| *... və daha 7 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2466,7 +2373,7 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
-| *... və daha 20 təhsil müəssisəsi* | | | |
+| *... və daha 8 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2506,11 +2413,6 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| *... və daha 9 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2555,7 +2457,7 @@ if match:
 | Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| *... və daha 15 təhsil müəssisəsi* | | | |
+| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2605,7 +2507,7 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
-| *... və daha 14 təhsil müəssisəsi* | | | |
+| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2658,7 +2560,7 @@ if match:
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 42 |
-| *... və daha 19 təhsil müəssisəsi* | | | |
+| *... və daha 7 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2710,7 +2612,7 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
-| *... və daha 20 təhsil müəssisəsi* | | | |
+| *... və daha 8 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2747,21 +2649,21 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Meliorasiya, rekultivasiya və torpaq mühafizəsi | 58.5 | 46.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühit və neft sənayesi | 59 | 59 |
-| Azərbaycan Texniki Universiteti | Ətraf mühit və neft sənayesi | 58 | 55.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 42 |
+| Milli Aviasiya Akademiyası | Aerokosmik monitorinq | 59.5 | 51.5 |
+| Bakı Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | 61.5 | 61.5 |
+| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
+| Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
+| Lənkəran Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | 64.5 | 45 |
+| Qərbi Kaspi Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
+| “Odlar Yurdu” Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | 58.5 | 44 |
 | Azərbaycan Texniki Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 58 | 56 |
-| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 65 | 45 |
-| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| Milli Aviasiya Akademiyası | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61 | 61 |
-| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
-| *... və daha 22 təhsil müəssisəsi* | | | |
+| *... və daha 8 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -2783,25 +2685,6 @@ if match:
 - ** `060649` Ekologiya mühəndisliyi**
   - Su ehtiyatlarını kompleks istifadə si
   - li istifadə olunması
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Folklorşünaslıq | 65 | 65 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | 58.5 | 44 |
-| Azərbaycan Texniki Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 58 | 56 |
-| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 65 | 45 |
-| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| Milli Aviasiya Akademiyası | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61 | 61 |
-| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
-| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
-| Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-
-</details>
 
 ---
 
@@ -2831,11 +2714,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
@@ -2844,7 +2722,11 @@ if match:
 | Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 65 | 45 |
 | Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Milli Aviasiya Akademiyası | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61 | 61 |
-| *... və daha 10 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
+| Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
+| Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
 
 </details>
 
@@ -2904,7 +2786,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Şərabçılıq və qıcqırtma istehsalının texnologiyası | None | 40 |
-| Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası | 40.5 | 40 |
 
 </details>
 
@@ -2940,7 +2821,6 @@ if match:
 | Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Kimyəvi ekspertiza | 73.5 | 73.5 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Şərabçılıq və qıcqırtma istehsalının texnologiyası | None | 40 |
-| Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası | 40.5 | 40 |
 
 </details>
 
@@ -2976,7 +2856,6 @@ if match:
 | Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Kimyəvi ekspertiza | 73.5 | 73.5 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Şərabçılıq və qıcqırtma istehsalının texnologiyası | None | 40 |
-| Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası | 40.5 | 40 |
 
 </details>
 
@@ -3173,7 +3052,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Konfliktologiya | None | 50 |
-| Xəzər Universiteti | Konfliktologiya İngilis dilində | None | 50 |
 | Xəzər Universiteti | Dünya siyasi prosesləri İngilis dilində | None | 50 |
 
 </details>
@@ -3317,7 +3195,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Konfliktologiya | None | 50 |
-| Xəzər Universiteti | Konfliktologiya İngilis dilində | None | 50 |
 | Xəzər Universiteti | Dünya siyasi prosesləri İngilis dilində | None | 50 |
 
 </details>
@@ -3385,17 +3262,6 @@ if match:
   - hlükə sizliyi mühəndisliyi
   - ladə halların idarə olunması hlükə sizliyi hlükə sizliyi
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Fövqəladə halların idarə olunması | 51 | 42 |
-| Milli Aviasiya Akademiyası | Aviasiya təhlükəsizliyinin idarə olunması | 62.5 | 48.5 |
-| Fövqəladə Hallar Nazirliyinin Akademiyası | Fövqəladə halların idarə olunması | 75 | None |
-| Fövqəladə Hallar Nazirliyinin Akademiyası | Yanğın təhlükəsizliyinin idarə olunması | None | None |
-
-</details>
-
 ---
 
 ### Proqram № 25
@@ -3454,20 +3320,9 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası İngilis dilində | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
 | Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Gəncə Dövlət Universiteti | Texnologiyanın tədrisi | None | 44 |
-| Lənkəran Dövlət Universiteti | Texnologiyanın tədrisi | None | 41 |
-| Lənkəran Dövlət Universiteti | Kənd təsərrüfatı bitkilərinin biotexnologiyası | 32 | 32 |
 | Azərbaycan Tibb Universiteti | Əczaçılıq menecmenti | None | 45 |
 
 </details>
@@ -3562,22 +3417,22 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Maliyyə (MBA) | None | 55 |
-| Azərbaycan Dövlət İqtisad Universiteti | Maliyyə (MBA) | None | 58.5 |
-| Bakı Mühəndislik Universiteti | Maliyyə (MBA) | None | 48.5 |
-| Azərbaycan Turizm və Menecment Universiteti | Maliyyə (MBA) | None | 45.5 |
-| Bakı Ali Neft Məktəbi | Maliyyə (MBA) | None | 68 |
-| Naxçıvan Dövlət Universiteti | Maliyyə (MBA) | None | 55 |
-| Gəncə Dövlət Universiteti | Maliyyə (MBA) | None | 52.5 |
-| Sumqayıt Dövlət Universiteti | Maliyyə (MBA) | None | 50 |
-| Mingəçevir Dövlət Universiteti | Maliyyə (MBA) | None | 45 |
-| “Azərbaycan” Universiteti | Maliyyə (MBA) | None | 48.5 |
-| Xəzər Universiteti | Maliyyə (MBA) | None | 47 |
-| Bakı Avrasiya Universiteti | Maliyyə (MBA) | None | 45 |
-| “Odlar Yurdu” Universiteti | Maliyyə (MBA) | None | 45 |
-| Azərbaycan Dövlət İqtisad Universiteti | Bank işi | 71.5 | 45 |
-| Lənkəran Dövlət Universiteti | Bank işi | None | 45 |
-| *... və daha 91 təhsil müəssisəsi* | | | |
+| Azərbaycan Dövlət İqtisad Universiteti | Maliyyə menecmenti | 75.5 | 75.5 |
+| Azərbaycan Dövlət İqtisad Universiteti | Maliyyə menecmenti İngilis dilində | 80.5 | 80.5 |
+| Azərbaycan Dövlət İqtisad Universiteti | Maliyyə menecmenti Türk dilində | 71 | 52 |
+| Bakı Mühəndislik Universiteti | Maliyyə menecmenti | None | 45 |
+| Azərbaycan Turizm və Menecment Universiteti | Maliyyə menecmenti | None | 48 |
+| Lənkəran Dövlət Universiteti | Maliyyə menecmenti | None | 45 |
+| Xəzər Universiteti | Maliyyə menecmenti İngilis dilində | 71 | 45 |
+| Bakı Biznes Universiteti | Maliyyə menecmenti | None | 45 |
+| Azərbaycan Dövlət İqtisad Universiteti | Maliyyə bazarları | 71 | 71 |
+| Azərbaycan Əmək və Sosial Münasibətlər Akademiyası | Maliyyə bazarları | None | 45 |
+| Azərbaycan Dövlət İqtisad Universiteti | Aqrar iqtisadiyyat | 64.5 | 64.5 |
+| Azərbaycan Dövlət İqtisad Universiteti | İqtisadi siyasət | 67.5 | 67.5 |
+| Bakı Mühəndislik Universiteti | İqtisadi siyasət | None | 45 |
+| Bakı Avrasiya Universiteti | İqtisadi siyasət | None | 45 |
+| Bakı Dövlət Universiteti | Turizmin iqtisadiyyatı | 64 | 45.5 |
+| *... və daha 10 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -3598,29 +3453,6 @@ if match:
   - lə rinin iqtisadiyyatı lə r üzrə ) İnnovasiya strategiyasını nmə si
   - İnvestisiyanı ndirilmə si
   - nin idarə olunmas
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Turizmin iqtisadiyyatı | 64 | 45.5 |
-| Azərbaycan Dövlət İqtisad Universiteti | Təhsilin iqtisadiyyatı | 64 | 55 |
-| Azərbaycan Dövlət İqtisad Universiteti | Turizmin iqtisadiyyatı | 65.5 | 65.5 |
-| Azərbaycan Dövlət İqtisad Universiteti | İqtisadi siyasət | 67.5 | 67.5 |
-| Azərbaycan Dövlət İqtisad Universiteti | Davranış iqtisadiyyatı | 65.5 | 65.5 |
-| Bakı Mühəndislik Universiteti | İqtisadi siyasət | None | 45 |
-| Azərbaycan Turizm və Menecment Universiteti | Turizmin iqtisadiyyatı | 64 | 46.5 |
-| “Azərbaycan” Universiteti | Turizmin iqtisadiyyatı | None | 45 |
-| Bakı Avrasiya Universiteti | Turizmin iqtisadiyyatı | None | 45 |
-| Bakı Avrasiya Universiteti | İqtisadi siyasət | None | 45 |
-| Bakı Biznes Universiteti | Turizmin iqtisadiyyatı | None | 45 |
-| Azərbaycan Əmək və Sosial Münasibətlər Akademiyası | Turizmin iqtisadiyyatı | None | 45 |
-| Bakı Dövlət Universiteti | Aqrokimya və torpaq münbitliyinin idarə olunması | 56.5 | 56.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnsan resurslarının idarə olunması | None | 56.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnsan resurslarının idarə olunması İngilis dilində | None | 51 |
-| *... və daha 20 təhsil müəssisəsi* | | | |
-
-</details>
 
 ---
 
@@ -3644,7 +3476,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdman menecmenti | None | 45 |
-| Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdman menecmenti İngilis dilində | None | 45 |
 
 </details>
 
@@ -3700,29 +3531,6 @@ if match:
 - ** `060211` Regionşünaslıq**
   - Ölkəş ünaslı rüzrə ) Regionşünaslıq (regionlarüzrə )
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Turizmin iqtisadiyyatı | 64 | 45.5 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Xidmət sahələrinin iqtisadiyyatı | 64 | 45 |
-| Azərbaycan Dövlət İqtisad Universiteti | Təhsilin iqtisadiyyatı | 64 | 55 |
-| Azərbaycan Dövlət İqtisad Universiteti | Turizmin iqtisadiyyatı | 65.5 | 65.5 |
-| Azərbaycan Turizm və Menecment Universiteti | Turizmin iqtisadiyyatı | 64 | 46.5 |
-| Milli Aviasiya Akademiyası | Xidmət sahələrinin iqtisadiyyatı | None | 45 |
-| Lənkəran Dövlət Universiteti | Xidmət sahələrinin iqtisadiyyatı | None | 45 |
-| “Azərbaycan” Universiteti | Turizmin iqtisadiyyatı | None | 45 |
-| Bakı Avrasiya Universiteti | Turizmin iqtisadiyyatı | None | 45 |
-| Bakı Biznes Universiteti | Turizmin iqtisadiyyatı | None | 45 |
-| Azərbaycan Əmək və Sosial Münasibətlər Akademiyası | Turizmin iqtisadiyyatı | None | 45 |
-| Bakı Dövlət Universiteti | Regionşünaslıq (Qafqaz ölkələri üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (İsrail və Yaxın Şərq üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (Skandinaviya üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (Qafqaz üzrə) | None | 50 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
-
-</details>
-
 ---
 
 #### Blok 8 (Minimal bal: `40`, Səhifə: 48)
@@ -3748,21 +3556,9 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdman menecmenti | None | 45 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya İngilis dilində | 70 | 70 |
-| *... və daha 1 təhsil müəssisəsi* | | | |
+| Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 
 </details>
 
@@ -3783,28 +3579,6 @@ if match:
 - ** `060407` Menecment**
   - siüzrə )
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| “Odlar Yurdu” Universiteti | Təhsil psixologiyası | None | 50 |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
-
-</details>
-
 ---
 
 #### Blok 10 (Minimal bal: `45`, Səhifə: 49)
@@ -3821,28 +3595,6 @@ if match:
   - yaşpsixologiyası
 - ** `060407` Menecment**
   - siüzrə )
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| “Odlar Yurdu” Universiteti | Təhsil psixologiyası | None | 50 |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
-
-</details>
 
 ---
 
@@ -3882,20 +3634,9 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası İngilis dilində | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
 | Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Gəncə Dövlət Universiteti | Texnologiyanın tədrisi | None | 44 |
-| Lənkəran Dövlət Universiteti | Texnologiyanın tədrisi | None | 41 |
-| Lənkəran Dövlət Universiteti | Kənd təsərrüfatı bitkilərinin biotexnologiyası | 32 | 32 |
 
 </details>
 
@@ -4314,7 +4055,6 @@ if match:
 | Bakı Dövlət Universiteti | Dilşünaslıq (ümumi dilçilik) | 65 | 56.5 |
 | Azərbaycan Dillər Universiteti | Dilşünaslıq (ümumi dilçilik) | None | 50 |
 | Bakı Avrasiya Universiteti | Dilşünaslıq (ümumi dilçilik) | None | 50 |
-| Bakı Dövlət Universiteti | Dilşünaslıq (türk dili üzrə) | None | 50 |
 
 </details>
 
@@ -4533,10 +4273,8 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
 | Bakı Dövlət Universiteti | İdarəetmənin sosiologiyası | 64.5 | 60 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | İdarəetmənin sosiologiyası | 64 | 63 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
 | Bakı Dövlət Universiteti | Sosioloji tədqiqatlar | 69 | 69 |
 
 </details>
@@ -4564,7 +4302,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
 | Bakı Dövlət Universiteti | İdarəetmənin sosiologiyası | 64.5 | 60 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | İdarəetmənin sosiologiyası | 64 | 63 |
 | Bakı Dövlət Universiteti | Sosioloji tədqiqatlar | 69 | 69 |
@@ -4650,14 +4387,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Tətbiqi riyaziyyat | 66 | 66 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tətbiqi riyaziyyat | 63.5 | 63.5 |
-| Bakı Musiqi Akademiyası | Musiqi texnologiyaları | 50 | 48 |
-| Bakı Dövlət Universiteti | Riyaziyyatın tədrisi | 78.5 | 78.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Riyaziyyatın tədrisi | 62.5 | 60.5 |
-| Naxçıvan Müəllimlər İnstitutu | Riyaziyyatın tədrisi | None | 42.5 |
-| Gəncə Dövlət Universiteti | Riyaziyyatın tədrisi | None | 43 |
-| Sumqayıt Dövlət Universiteti | Riyaziyyatın tədrisi | 73 | 53 |
-| Mingəçevir Dövlət Universiteti | Riyaziyyatın tədrisi | 69 | 41 |
-| Lənkəran Dövlət Universiteti | Riyaziyyatın tədrisi | 66 | 40 |
 | Bakı Dövlət Universiteti | Ehtimal nəzəriyyəsi və riyazi statistika | 66 | 66 |
 | Bakı Dövlət Universiteti | Hesablama diaqnostikası | 61 | 61 |
 | Bakı Dövlət Universiteti | Diskret sistemlər | 61 | 61 |
@@ -4695,13 +4424,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Riyaziyyatın tədrisi | 78.5 | 78.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Riyaziyyatın tədrisi | 62.5 | 60.5 |
-| Naxçıvan Müəllimlər İnstitutu | Riyaziyyatın tədrisi | None | 42.5 |
-| Gəncə Dövlət Universiteti | Riyaziyyatın tədrisi | None | 43 |
-| Sumqayıt Dövlət Universiteti | Riyaziyyatın tədrisi | 73 | 53 |
-| Mingəçevir Dövlət Universiteti | Riyaziyyatın tədrisi | 69 | 41 |
-| Lənkəran Dövlət Universiteti | Riyaziyyatın tədrisi | 66 | 40 |
 | Bakı Dövlət Universiteti | Riyazi analiz | 72 | 72 |
 | Naxçıvan Dövlət Universiteti | Riyazi analiz | 53 | 53 |
 | Gəncə Dövlət Universiteti | Riyazi analiz | 48.5 | 48.5 |
@@ -4710,7 +4432,10 @@ if match:
 | Bakı Dövlət Universiteti | Hesablama riyaziyyatı və modelləşdirmə | 66 | 66 |
 | Bakı Dövlət Universiteti | Hesablama riyaziyyatı və modelləşdirmə İngilis dilində | None | 55.5 |
 | Gəncə Dövlət Universiteti | Hesablama riyaziyyatı və modelləşdirmə | 53 | 53 |
-| *... və daha 4 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Hesablama diaqnostikası | 61 | 61 |
+| Bakı Dövlət Universiteti | Ehtimal nəzəriyyəsi və riyazi statistika | 66 | 66 |
+| Bakı Dövlət Universiteti | Aktuar riyaziyyat | 61.5 | 61.5 |
+| Bakı Dövlət Universiteti | Diskret sistemlər | 61 | 61 |
 
 </details>
 
@@ -4741,13 +4466,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Riyaziyyatın tədrisi | 78.5 | 78.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Riyaziyyatın tədrisi | 62.5 | 60.5 |
-| Naxçıvan Müəllimlər İnstitutu | Riyaziyyatın tədrisi | None | 42.5 |
-| Gəncə Dövlət Universiteti | Riyaziyyatın tədrisi | None | 43 |
-| Sumqayıt Dövlət Universiteti | Riyaziyyatın tədrisi | 73 | 53 |
-| Mingəçevir Dövlət Universiteti | Riyaziyyatın tədrisi | 69 | 41 |
-| Lənkəran Dövlət Universiteti | Riyaziyyatın tədrisi | 66 | 40 |
 | Bakı Dövlət Universiteti | Riyazi analiz | 72 | 72 |
 | Naxçıvan Dövlət Universiteti | Riyazi analiz | 53 | 53 |
 | Gəncə Dövlət Universiteti | Riyazi analiz | 48.5 | 48.5 |
@@ -4756,7 +4474,8 @@ if match:
 | Bakı Dövlət Universiteti | Hesablama riyaziyyatı və modelləşdirmə | 66 | 66 |
 | Bakı Dövlət Universiteti | Hesablama riyaziyyatı və modelləşdirmə İngilis dilində | None | 55.5 |
 | Gəncə Dövlət Universiteti | Hesablama riyaziyyatı və modelləşdirmə | 53 | 53 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Hesablama diaqnostikası | 61 | 61 |
+| Bakı Dövlət Universiteti | Ehtimal nəzəriyyəsi və riyazi statistika | 66 | 66 |
 
 </details>
 
@@ -4789,12 +4508,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Deformasiya olunan bərk cisim mexanikası | 51.5 | 45 |
 | Bakı Dövlət Universiteti | Maye, qaz və plazma mexanikası | 51 | 51 |
-| Bakı Dövlət Universiteti | Fizikanın tədrisi | 69 | 69 |
-| Bakı Dövlət Universiteti | Biofizika | 69.5 | 69.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Fizikanın tədrisi | 63 | 47 |
-| Gəncə Dövlət Universiteti | Fizikanın tədrisi | None | 40.5 |
-| Sumqayıt Dövlət Universiteti | Fizikanın tədrisi | 71.5 | 43.5 |
-| Lənkəran Dövlət Universiteti | Fizikanın tədrisi | None | 40 |
 | Bakı Dövlət Universiteti | Riyazi fizika | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Nəzəri və riyazi fizika | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Bərk cisimlər fizikası | 64 | 64 |
@@ -4839,8 +4552,6 @@ if match:
 | Sumqayıt Dövlət Universiteti | İstilik fizikası və molekulyar fizika | 51.5 | 51.5 |
 | Bakı Dövlət Universiteti | Kvant elektronikası | 58.5 | 58.5 |
 | Bakı Dövlət Universiteti | Bioloji sistemlər fizikası | 59 | 59 |
-| Bakı Dövlət Universiteti | Bərk cisimlər fizikası | 64 | 64 |
-| Bakı Dövlət Universiteti | Nüvə və elementar zərrəciklər fizikası | 67.5 | 67.5 |
 | Bakı Dövlət Universiteti | Bərk cisim elektronikası | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Optoelektronika | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | Yüksək enerjilər fizikası | 61 | 61 |
@@ -4883,8 +4594,6 @@ if match:
 | Sumqayıt Dövlət Universiteti | İstilik fizikası və molekulyar fizika | 51.5 | 51.5 |
 | Bakı Dövlət Universiteti | Kvant elektronikası | 58.5 | 58.5 |
 | Bakı Dövlət Universiteti | Bioloji sistemlər fizikası | 59 | 59 |
-| Bakı Dövlət Universiteti | Bərk cisimlər fizikası | 64 | 64 |
-| Bakı Dövlət Universiteti | Nüvə və elementar zərrəciklər fizikası | 67.5 | 67.5 |
 | Bakı Dövlət Universiteti | Bərk cisim elektronikası | 60.5 | 60.5 |
 
 </details>
@@ -4920,8 +4629,6 @@ if match:
 | Sumqayıt Dövlət Universiteti | İstilik fizikası və molekulyar fizika | 51.5 | 51.5 |
 | Bakı Dövlət Universiteti | Kvant elektronikası | 58.5 | 58.5 |
 | Bakı Dövlət Universiteti | Bioloji sistemlər fizikası | 59 | 59 |
-| Bakı Dövlət Universiteti | Bərk cisimlər fizikası | 64 | 64 |
-| Bakı Dövlət Universiteti | Nüvə və elementar zərrəciklər fizikası | 67.5 | 67.5 |
 | Bakı Dövlət Universiteti | Bərk cisim elektronikası | 60.5 | 60.5 |
 
 </details>
@@ -4956,22 +4663,13 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Kimyəvi kinetika və kataliz | 64 | 64 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
-| *... və daha 7 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Analitik kimya | 66.5 | 66.5 |
+| Gəncə Dövlət Universiteti | Analitik kimya | 71 | 45 |
 
 </details>
 
@@ -5002,11 +4700,8 @@ if match:
 | Bakı Dövlət Universiteti | Kimyəvi kinetika və kataliz | 64 | 64 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | Nanomateriallar kimyası | 64.5 | 64.5 |
-| Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
-| Bakı Dövlət Universiteti | Qeyri-üzvi kimya | 65 | 65 |
-| Naxçıvan Dövlət Universiteti | Qeyri-üzvi kimya | 46.5 | 46.5 |
-| Gəncə Dövlət Universiteti | Qeyri-üzvi kimya | 51 | 45 |
 | Bakı Dövlət Universiteti | Nanomateriallar kimyası İngilis dilində | 70.5 | 70.5 |
+| Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
 
 </details>
 
@@ -5038,22 +4733,11 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Kimyəvi kinetika və kataliz | 64 | 64 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
-| *... və daha 5 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -5082,11 +4766,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Kimyəvi kinetika və kataliz | 64 | 64 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
-| Bakı Dövlət Universiteti | Nanomateriallar kimyası | 64.5 | 64.5 |
-| Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
-| Bakı Dövlət Universiteti | Qeyri-üzvi kimya | 65 | 65 |
-| Naxçıvan Dövlət Universiteti | Qeyri-üzvi kimya | 46.5 | 46.5 |
-| Gəncə Dövlət Universiteti | Qeyri-üzvi kimya | 51 | 45 |
 
 </details>
 
@@ -5116,11 +4795,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Kimyəvi kinetika və kataliz | 64 | 64 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
-| Bakı Dövlət Universiteti | Nanomateriallar kimyası | 64.5 | 64.5 |
-| Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
-| Bakı Dövlət Universiteti | Qeyri-üzvi kimya | 65 | 65 |
-| Naxçıvan Dövlət Universiteti | Qeyri-üzvi kimya | 46.5 | 46.5 |
-| Gəncə Dövlət Universiteti | Qeyri-üzvi kimya | 51 | 45 |
 
 </details>
 
@@ -5151,11 +4825,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Kimyəvi kinetika və kataliz | 64 | 64 |
 | Bakı Dövlət Universiteti | Kompozit materiallar kimyası | 61.5 | 61.5 |
-| Bakı Dövlət Universiteti | Nanomateriallar kimyası | 64.5 | 64.5 |
-| Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
-| Bakı Dövlət Universiteti | Qeyri-üzvi kimya | 65 | 65 |
-| Naxçıvan Dövlət Universiteti | Qeyri-üzvi kimya | 46.5 | 46.5 |
-| Gəncə Dövlət Universiteti | Qeyri-üzvi kimya | 51 | 45 |
 
 </details>
 
@@ -5189,17 +4858,8 @@ if match:
 | Gəncə Dövlət Universiteti | Biokimya | 65 | 65 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
 | Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
-| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -5230,19 +4890,16 @@ if match:
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
+| Bakı Dövlət Universiteti | Biofizika | 69.5 | 69.5 |
 | Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
 | Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
 | Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
 | “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
-| Bakı Dövlət Universiteti | Biofizika | 69.5 | 69.5 |
-| Bakı Dövlət Universiteti | Mikologiya | 65.5 | 65.5 |
-| Bakı Dövlət Universiteti | Mikrobiologiya İngilis dilində | 69 | 69 |
-| *... və daha 6 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Onurğasızlar zoologiyası | 65.5 | 65.5 |
+| Bakı Dövlət Universiteti | Onurğalılar zoologiyası | 68.5 | 68.5 |
+| Naxçıvan Dövlət Universiteti | Onurğasızlar zoologiyası | 45 | 45 |
+| Gəncə Dövlət Universiteti | Onurğalılar zoologiyası | None | 45 |
+| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 
 </details>
 
@@ -5273,19 +4930,13 @@ if match:
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Bitki fiziologiyası | 67 | 67 |
 | Gəncə Dövlət Universiteti | Bitki fiziologiyası | 47 | 45 |
 | Bakı Dövlət Universiteti | Onurğasızlar zoologiyası | 65.5 | 65.5 |
-| *... və daha 4 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Onurğalılar zoologiyası | 68.5 | 68.5 |
+| Naxçıvan Dövlət Universiteti | Onurğasızlar zoologiyası | 45 | 45 |
+| Gəncə Dövlət Universiteti | Onurğalılar zoologiyası | None | 45 |
+| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 
 </details>
 
@@ -5316,22 +4967,22 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
-| *... və daha 9 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
+| Bakı Dövlət Universiteti | Bitki fiziologiyası | 67 | 67 |
+| Gəncə Dövlət Universiteti | Bitki fiziologiyası | 47 | 45 |
+| Bakı Dövlət Universiteti | Onurğasızlar zoologiyası | 65.5 | 65.5 |
+| Bakı Dövlət Universiteti | Onurğalılar zoologiyası | 68.5 | 68.5 |
+| Naxçıvan Dövlət Universiteti | Onurğasızlar zoologiyası | 45 | 45 |
+| Gəncə Dövlət Universiteti | Onurğalılar zoologiyası | None | 45 |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
+| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
+| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
+| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
+| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
+| *... və daha 1 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -5365,22 +5016,21 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
-| *... və daha 19 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
+| Bakı Dövlət Universiteti | Bitki fiziologiyası | 67 | 67 |
+| Gəncə Dövlət Universiteti | Bitki fiziologiyası | 47 | 45 |
+| Bakı Dövlət Universiteti | Onurğasızlar zoologiyası | 65.5 | 65.5 |
+| Bakı Dövlət Universiteti | Onurğalılar zoologiyası | 68.5 | 68.5 |
+| Naxçıvan Dövlət Universiteti | Onurğasızlar zoologiyası | 45 | 45 |
+| Gəncə Dövlət Universiteti | Onurğalılar zoologiyası | None | 45 |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
+| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
+| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
+| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
+| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
 
 </details>
 
@@ -5412,22 +5062,21 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
-| *... və daha 19 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
+| Bakı Dövlət Universiteti | Bitki fiziologiyası | 67 | 67 |
+| Gəncə Dövlət Universiteti | Bitki fiziologiyası | 47 | 45 |
+| Bakı Dövlət Universiteti | Onurğasızlar zoologiyası | 65.5 | 65.5 |
+| Bakı Dövlət Universiteti | Onurğalılar zoologiyası | 68.5 | 68.5 |
+| Naxçıvan Dövlət Universiteti | Onurğasızlar zoologiyası | 45 | 45 |
+| Gəncə Dövlət Universiteti | Onurğalılar zoologiyası | None | 45 |
+| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
+| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
+| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
+| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
 
 </details>
 
@@ -5465,14 +5114,14 @@ if match:
 | Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
 | Bakı Dövlət Universiteti | Bitki fiziologiyası | 67 | 67 |
 | Gəncə Dövlət Universiteti | Bitki fiziologiyası | 47 | 45 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Onurğasızlar zoologiyası | 65.5 | 65.5 |
 | Bakı Dövlət Universiteti | Onurğalılar zoologiyası | 68.5 | 68.5 |
 | Naxçıvan Dövlət Universiteti | Onurğasızlar zoologiyası | 45 | 45 |
 | Gəncə Dövlət Universiteti | Onurğalılar zoologiyası | None | 45 |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
+| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
+| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
+| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
 | *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
@@ -5506,17 +5155,12 @@ if match:
 | Gəncə Dövlət Universiteti | Biokimya | 65 | 65 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
 | Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
 | Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
 | Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
 | “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
-| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -5542,22 +5186,10 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
-| *... və daha 1 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
 
 </details>
 
@@ -5590,17 +5222,9 @@ if match:
 | Gəncə Dövlət Universiteti | Biokimya | 65 | 65 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
 | Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası İngilis dilində | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
-| *... və daha 4 təhsil müəssisəsi* | | | |
+| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
 
 </details>
 
@@ -5626,22 +5250,10 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | İnsan və heyvan fiziologiyası | 71 | 71 |
-| *... və daha 1 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
 
 </details>
 
@@ -5673,18 +5285,9 @@ if match:
 | Gəncə Dövlət Universiteti | İnsan və heyvan fiziologiyası | 51 | 51 |
 | Bakı Dövlət Universiteti | Bitki fiziologiyası | 67 | 67 |
 | Gəncə Dövlət Universiteti | Bitki fiziologiyası | 47 | 45 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası İngilis dilində | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
 | Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -5714,12 +5317,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Coğrafiyanın tədrisi | 65 | 49.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Coğrafiyanın tədrisi | 62.5 | 47 |
-| Naxçıvan Dövlət Universiteti | Coğrafiyanın tədrisi | None | 40 |
-| Gəncə Dövlət Universiteti | Coğrafiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Coğrafiyanın tədrisi | None | 42 |
-| Lənkəran Dövlət Universiteti | Coğrafiyanın tədrisi | None | 40 |
 | Bakı Dövlət Universiteti | Geomorfologiya | 56 | 56 |
 
 </details>
@@ -5747,12 +5344,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Coğrafiyanın tədrisi | 65 | 49.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Coğrafiyanın tədrisi | 62.5 | 47 |
-| Naxçıvan Dövlət Universiteti | Coğrafiyanın tədrisi | None | 40 |
-| Gəncə Dövlət Universiteti | Coğrafiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Coğrafiyanın tədrisi | None | 42 |
-| Lənkəran Dövlət Universiteti | Coğrafiyanın tədrisi | None | 40 |
 | Bakı Dövlət Universiteti | Geomorfologiya | 56 | 56 |
 
 </details>
@@ -5792,7 +5383,6 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 
 </details>
 
@@ -5834,11 +5424,9 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| *... və daha 12 təhsil müəssisəsi* | | | |
+| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
+| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 
 </details>
 
@@ -5878,13 +5466,7 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Torpaqşünaslıq | 54.5 | 54.5 |
-| Naxçıvan Dövlət Universiteti | Torpaqşünaslıq | 43.5 | 30 |
-| Lənkəran Dövlət Universiteti | Torpaqşünaslıq | 40.5 | 30 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 
 </details>
 
@@ -5917,9 +5499,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 
 </details>
 
@@ -5955,22 +5534,10 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
-| Bakı Dövlət Universiteti | Torpaqşünaslıq | 54.5 | 54.5 |
-| Naxçıvan Dövlət Universiteti | Torpaqşünaslıq | 43.5 | 30 |
-| *... və daha 4 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
 
 </details>
 
@@ -6009,10 +5576,6 @@ if match:
 | Bakı Dövlət Universiteti | Nanomateriallar kimyası İngilis dilində | 70.5 | 70.5 |
 | Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Kimyəvi ekspertiza | 73.5 | 73.5 |
-| Bakı Dövlət Universiteti | Torpaqşünaslıq | 54.5 | 54.5 |
-| Naxçıvan Dövlət Universiteti | Torpaqşünaslıq | 43.5 | 30 |
-| Lənkəran Dövlət Universiteti | Torpaqşünaslıq | 40.5 | 30 |
-| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 
 </details>
 
@@ -6061,11 +5624,9 @@ if match:
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Bakı Dövlət Universiteti | Bioloji monitorinq | 65 | 65 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| *... və daha 9 təhsil müəssisəsi* | | | |
+| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
+| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 
 </details>
 
@@ -6092,18 +5653,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikrobiologiya | 76.5 | 76.5 |
-| Azərbaycan Tibb Universiteti | Mikrobiologiya | 75.5 | 75.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Sumqayıt Dövlət Universiteti | Mikrobiologiya | 58.5 | 58.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Mikrobiologiya | 70 | 70 |
 | Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
 | Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 
@@ -6226,10 +5775,6 @@ if match:
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Muzeyşünaslıq | 52.5 | 47 |
 | Azərbaycan Turizm və Menecment Universiteti | Muzeyşünaslıq | 53.5 | 43 |
 | Lənkəran Dövlət Universiteti | Muzeyşünaslıq | 52.5 | 39 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Arxeoloji və tarixi memarlıq abidələrinin mühafizəsi | 58.5 | 58.5 |
-| Azərbaycan Turizm və Menecment Universiteti | Arxeoloji və tarixi memarlıq abidələrinin mühafizəsi | 53 | 47 |
-| Naxçıvan Dövlət Universiteti | Arxeoloji və tarixi memarlıq abidələrinin mühafizəsi | 64.5 | 43 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Mədəniyyətin tarixi və nəzəriyyəsi | 48 | 48 |
 
 </details>
 
@@ -6284,14 +5829,6 @@ if match:
   - bi iş tşünaslıq riyyə si
 - ** `060316` Kinoş ünasl q**
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Teatr tənqidi | 49 | 39 |
-
-</details>
-
 ---
 
 #### Blok 8 (Minimal bal: `30`, Səhifə: 45)
@@ -6310,14 +5847,6 @@ if match:
   - Kino tə nqidi riyyə si
 - ** `060314` Bə dii yaradıcılıq və ekran dramaturgiyası**
   - bi iş bi redaktə Ssenarist
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Kino tənqidi | 48 | 48 |
-
-</details>
 
 ---
 
@@ -6352,14 +5881,6 @@ if match:
   - bi iş Ssenarist tşünaslıq riyyə si
 - ** `060316` Kinoş ünaslıq**
   - Kino tə nqidi riyyə si
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Kino tənqidi | 48 | 48 |
-
-</details>
 
 ---
 
@@ -6415,7 +5936,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Mədəniyyətin tarixi və nəzəriyyəsi | 48 | 48 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Muzeyşünaslıq | 52.5 | 47 |
 | Azərbaycan Turizm və Menecment Universiteti | Muzeyşünaslıq | 53.5 | 43 |
 | Lənkəran Dövlət Universiteti | Muzeyşünaslıq | 52.5 | 39 |
@@ -6448,7 +5968,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Mədəniyyətin tarixi və nəzəriyyəsi | 48 | 48 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Muzeyşünaslıq | 52.5 | 47 |
 | Azərbaycan Turizm və Menecment Universiteti | Muzeyşünaslıq | 53.5 | 43 |
 | Lənkəran Dövlət Universiteti | Muzeyşünaslıq | 52.5 | 39 |
@@ -6484,7 +6003,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Teatr tənqidi | 49 | 39 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Kino tənqidi | 48 | 48 |
 
 </details>
@@ -6504,21 +6022,13 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - dəəədəəədəbiyyatının tədrisi metodikası və metodologiyası
+  - dəəədəəədəəədəəədəəədəbiyyatının tədrisi metodikası və metodologiyası
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı riyyə si)
-  - əədəəədəbiyyatşünaslıq (folklorşünaslıq və mifologiya)
-  - əədəəədəbiyyatşünaslı si və tarixi)
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Folklorşünaslıq | 65 | 65 |
-
-</details>
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı riyyə si)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (folklorşünaslıq və mifologiya)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı si və tarixi)
 
 ---
 
@@ -6538,8 +6048,8 @@ if match:
 
 - ** `060103` Xarici dil mü ə llimliyi**
   - Xarici dilin tədrisi metodikası və metodologiyası(rus dili)
-  - əədəəədəbiyyat müəllimliyi
-  - dəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(rus dili və dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
+  - dəəədəəədəəədəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(rus dili və dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060201` Filologiya**
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6565,10 +6075,10 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (rus dili)
-  - əədəəədəbiyyat müəllimliyi
-  - dəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(rus dili və
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
+  - dəəədəəədəəədəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(rus dili və
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -6598,7 +6108,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslı rəb dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6626,7 +6136,7 @@ if match:
   - Sosial pedaqogika və monitorinq
   - kili və metodikası(SABAH)
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (fars dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6656,7 +6166,7 @@ if match:
   - və monitorinq
   - kili və metodikası(SABAH)
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -6682,7 +6192,7 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - Dilşünaslıq (türk dili)
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (yapon dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6709,7 +6219,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (urdu dili)
 
 ---
@@ -6726,7 +6236,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (ibri dili)
 
 ---
@@ -6743,9 +6253,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə (ispan dili)
+  - tətətətətərcümə (ispan dili)
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (latın dili)
 - ** `060407` Menecment**
 
@@ -6773,11 +6283,11 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (alman dili)
   - Dilşünaslıq (latın dili)
-  - əədəəədəbiyyat müəllimliyi
-  - dəəədəəədəbiyyat n tədrisi metodikas və metodologiyas (alman dili və
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
+  - dəəədəəədəəədəəədəəədəbiyyat n tədrisi metodikas və metodologiyas (alman dili və
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -6804,11 +6314,11 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslıq (fransı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (fransı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (fransız dili)
   - Dilşünaslıq (latın dili)
-  - əədəəədəbiyyat müəllimliyi
-  - dəəədəəədəbiyyat n tədrisi metodikas və metodologiyas (frans z dili və
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
+  - dəəədəəədəəədəəədəəədəbiyyat n tədrisi metodikas və metodologiyas (frans z dili və
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -6835,7 +6345,7 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - rəb dili)
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslı rəb dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6860,7 +6370,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - dəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(alman dili və dəəədəəədəbiyyatı)
+  - dəəədəəədəəədəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(alman dili və dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060103` Xarici dil mü ə llimliyi**
   - Xarici dilin tədrisi metodikası və metodologiyası(alman dili)
 - ** `060201` Filologiya**
@@ -6888,7 +6398,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -6911,7 +6421,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslıq (fransı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (fransı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (fransız dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6937,19 +6447,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060204` Jurnalistika**
   - Jurnalistika (ümumi tə yinatlı) (SABAH)
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Publisistik jurnalistika | 51.5 | 50 |
-| Bakı Dövlət Universiteti | İdman jurnalistikası | 53.5 | 50 |
-| Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdman jurnalistikası | None | 50 |
-
-</details>
 
 ---
 
@@ -6964,7 +6464,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (türk dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -6989,7 +6489,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslı rəb dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -7014,8 +6514,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (fars dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -7040,7 +6540,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
   - Dilşünaslıq (ibri dili)
 
 ---
@@ -7056,7 +6556,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
 
 ---
 
@@ -7101,9 +6601,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət İqtisad Universiteti | Sosial müdafiənin təşkili | 70.5 | 70.5 |
 | Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
 
 </details>
 
@@ -7130,10 +6627,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət İqtisad Universiteti | Sosial müdafiənin təşkili | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
 
 </details>
 
@@ -7153,25 +6646,6 @@ if match:
   - fə tarixi
   - tşünaslı fə si
 - ** `060210` Sosiologiya**
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Fəlsəfə tarixi | 65.5 | 65.5 |
-| Bakı Dövlət Universiteti | Tarixin tədrisi | 63 | 60 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Tarixin tədrisi | None | 51 |
-| Naxçıvan Dövlət Universiteti | Tarixin tədrisi | None | 44.5 |
-| Gəncə Dövlət Universiteti | Tarixin tədrisi | None | 47 |
-| Sumqayıt Dövlət Universiteti | Tarixin tədrisi | None | 46 |
-| Mingəçevir Dövlət Universiteti | Tarixin tədrisi | 65 | 43 |
-| Lənkəran Dövlət Universiteti | Tarixin tədrisi | 73.5 | 42.5 |
-| Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-
-</details>
 
 ---
 
@@ -7199,20 +6673,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Xəzər Universiteti | Dünya siyasi prosesləri İngilis dilində | None | 50 |
 | Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| Xəzər Universiteti | Tətbiqi psixologiya | 67.5 | 52 |
-| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -7237,9 +6697,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
 | Bakı Dövlət Universiteti | İdarəetmənin sosiologiyası | 64.5 | 60 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | İdarəetmənin sosiologiyası | 64 | 63 |
 
@@ -7259,19 +6716,6 @@ if match:
 
 - ** `060210` Sosiologiya**
   - etmə nin sosiologiyası si və idman
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Bakı Dövlət Universiteti | İdarəetmənin sosiologiyası | 64.5 | 60 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | İdarəetmənin sosiologiyası | 64 | 63 |
-
-</details>
 
 ---
 
@@ -7339,9 +6783,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - Dilşünaslıq (rus dili) tətərcümə
-  - tətərcümə (rus dili)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - Dilşünaslıq (rus dili) tətətətətərcümə
+  - tətətətətərcümə (rus dili)
   - Yaz l rbaycan dili-rus diliüzrə )
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -7368,7 +6812,7 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə rəb dili)
+  - tətətətətərcümə rəb dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7393,10 +6837,10 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - dəəədəəədəbiyyatı)
+  - dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060103` Xarici dil mü ə llimliyi**
-  - Xarici dilin tədrisi metodikası və metodologiyası(ingilis dili) tətərcümə
-  - (ingilis diliüzrə ) tətərcümə (ingilis dili)
+  - Xarici dilin tədrisi metodikası və metodologiyası(ingilis dili) tətətətətərcümə
+  - (ingilis diliüzrə ) tətətətətərcümə (ingilis dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7404,18 +6848,17 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Pedaqoji Universiteti | Xarici dilin (ingilis dili) tədrisi | 65 | 47.5 |
 | Azərbaycan Dillər Universiteti | Xarici dilin (ingilis dili) tədrisi | 62 | 58 |
-| Azərbaycan Dillər Universiteti | Tərcümə (ingilis dili üzrə) | 69.5 | 57 |
 | Bakı Slavyan Universiteti | Xarici dilin (ingilis dili) tədrisi | None | 48 |
 | Naxçıvan Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | 63.5 | 43.5 |
-| Naxçıvan Dövlət Universiteti | Tərcümə (ingilis dili üzrə) | 69.5 | 50 |
 | Gəncə Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | 67 | 48.5 |
-| Gəncə Dövlət Universiteti | Tərcümə (ingilis dili) | 73.5 | 50 |
 | Mingəçevir Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | 69 | 40 |
 | Lənkəran Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | None | 40 |
+| Azərbaycan Dillər Universiteti | Tərcümə (ingilis dili üzrə) | 69.5 | 57 |
+| Naxçıvan Dövlət Universiteti | Tərcümə (ingilis dili üzrə) | 69.5 | 50 |
+| Gəncə Dövlət Universiteti | Tərcümə (ingilis dili) | 73.5 | 50 |
 | “Azərbaycan” Universiteti | Tərcümə (ingilis dili üzrə) | None | 50 |
-| Bakı Avrasiya Universiteti | Tərcümə (ingilis dili üzrə) | None | 50 |
-| Azərbaycan Kooperasiya Universiteti | Tərcümə (ingilis dili üzrə, tədris Azərbaycan dilində) | None | 50 |
 | Xəzər Universiteti | Tərcümə (ingilis dili üzrə) İngilis dilində | 71 | 50 |
+| Bakı Avrasiya Universiteti | Tərcümə (ingilis dili üzrə) | None | 50 |
 
 </details>
 
@@ -7433,7 +6876,7 @@ if match:
 
 - ** Magistratura ixtisaslaşması**
   - Sosial pedaqogika və monitorinq
-  - kili və metodikası(SABAH) tətərcümə
+  - kili və metodikası(SABAH) tətətətətərcümə
 
 ---
 
@@ -7449,9 +6892,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - dəəədəəədəbiyyatı)
+  - dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060103` Xarici dil mü ə llimliyi**
-  - Xarici dilin tədrisi metodikası və metodologiyası(alman dili) tətərcümə
+  - Xarici dilin tədrisi metodikası və metodologiyası(alman dili) tətətətətərcümə
   - (alman diliüzrə )
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -7460,9 +6903,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dillər Universiteti | Xarici dilin (alman dili) tədrisi | 63.5 | 63.5 |
 | Gəncə Dövlət Universiteti | Xarici dilin (alman dili) tədrisi | None | 42 |
-| Bakı Dövlət Universiteti | Dilşünaslıq (alman dili üzrə) | 65.5 | 54.5 |
-| Azərbaycan Dillər Universiteti | Dilşünaslıq (alman dili üzrə) | None | 58.5 |
-| Azərbaycan Dillər Universiteti | Tərcümə (alman dili üzrə) | None | 53 |
 
 </details>
 
@@ -7481,18 +6921,18 @@ if match:
 
 - ** Magistratura ixtisaslaşması**
   - ı ı ı ı
-  - dəəədəəədəbiyyatı)
+  - dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060103` Xarici dil mü ə llimliyi**
-  - Xarici dilin tədrisi metodikası və metodologiyası(fransız dili) tətərcümə
-  - tətərcümə (fransız dili)
+  - Xarici dilin tədrisi metodikası və metodologiyası(fransız dili) tətətətətərcümə
+  - tətətətətərcümə (fransız dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dillər Universiteti | Xarici dilin (fransız dili) tədrisi | 62.5 | 56 |
-| Azərbaycan Dillər Universiteti | Tərcümə (fransız dili üzrə) | 75 | 64.5 |
 | Gəncə Dövlət Universiteti | Xarici dilin (fransız dili) tədrisi | None | 40 |
+| Azərbaycan Dillər Universiteti | Tərcümə (fransız dili üzrə) | 75 | 64.5 |
 
 </details>
 
@@ -7511,16 +6951,15 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - Siyasə tin sosiologiyası
   - etmə nin sosiologiyası
-  - Sosioloji tə dqiqatların metodları və metodologiyası tətərcümə
-  - tətərcümə (ingilis dili)
-  - tətərcümə (ingilis dili)
+  - Sosioloji tə dqiqatların metodları və metodologiyası tətətətətərcümə
+  - tətətətətərcümə (ingilis dili)
+  - tətətətətərcümə (ingilis dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Siyasətin sosiologiyası | 70 | 70 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
 | Bakı Dövlət Universiteti | İdarəetmənin sosiologiyası | 64.5 | 60 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | İdarəetmənin sosiologiyası | 64 | 63 |
 | Bakı Dövlət Universiteti | Sosioloji tədqiqatlar | 69 | 69 |
@@ -7546,9 +6985,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - dəəədəəədəbiyyatı)
+  - dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060103` Xarici dil mü ə llimliyi**
-  - Xarici dilin tədrisi metodikası və metodologiyası(ingilis dili) tətərcümə
+  - Xarici dilin tədrisi metodikası və metodologiyası(ingilis dili) tətətətətərcümə
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7556,16 +6995,11 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Dövlət Pedaqoji Universiteti | Xarici dilin (ingilis dili) tədrisi | 65 | 47.5 |
 | Azərbaycan Dillər Universiteti | Xarici dilin (ingilis dili) tədrisi | 62 | 58 |
-| Azərbaycan Dillər Universiteti | Tərcümə (ingilis dili üzrə) | 69.5 | 57 |
 | Bakı Slavyan Universiteti | Xarici dilin (ingilis dili) tədrisi | None | 48 |
 | Naxçıvan Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | 63.5 | 43.5 |
-| Naxçıvan Dövlət Universiteti | Tərcümə (ingilis dili üzrə) | 69.5 | 50 |
 | Gəncə Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | 67 | 48.5 |
-| Gəncə Dövlət Universiteti | Tərcümə (ingilis dili) | 73.5 | 50 |
 | Mingəçevir Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | 69 | 40 |
 | Lənkəran Dövlət Universiteti | Xarici dilin (ingilis dili) tədrisi | None | 40 |
-| “Azərbaycan” Universiteti | Tərcümə (ingilis dili üzrə) | None | 50 |
-| Bakı Avrasiya Universiteti | Tərcümə (ingilis dili üzrə) | None | 50 |
 
 </details>
 
@@ -7582,9 +7016,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (alman dili)
-  - əədəəədəbiyyat müəllimliyi
+  - tətətətətərcümə
+  - tətətətətərcümə (alman dili)
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7607,9 +7041,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - Dilşünaslıq (alman dili) tətərcümə
-  - tətərcümə (ispan dili)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - Dilşünaslıq (alman dili) tətətətətərcümə
+  - tətətətətərcümə (ispan dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7635,8 +7069,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (italyan dili)
+  - tətətətətərcümə
+  - tətətətətərcümə (italyan dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7659,8 +7093,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (fransız dili)
+  - tətətətətərcümə
+  - tətətətətərcümə (fransız dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7683,8 +7117,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (rus dili)
+  - tətətətətərcümə
+  - tətətətətərcümə (rus dili)
   - Yazılı rbaycan dili-rus diliüzrə )
 - ** `060201` Filologiya**
 
@@ -7701,10 +7135,10 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - dəəədəəədəbiyyatı)
+  - dəəədəəədəəədəəədəəədəbiyyatı)
 - ** `060103` Xarici dil mü ə llimliyi**
-  - Xarici dilin tədrisi metodikası və metodologiyası(rus dili) tətərcümə
-  - tətərcümə (polyak dili)
+  - Xarici dilin tədrisi metodikası və metodologiyası(rus dili) tətətətətərcümə
+  - tətətətətərcümə (polyak dili)
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -7727,8 +7161,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - Yazılı rbaycan dili- polyak diliüzrə ) tətərcümə
-  - tətərcümə (Ukrayna dili)
+  - Yazılı rbaycan dili- polyak diliüzrə ) tətətətətərcümə
+  - tətətətətərcümə (Ukrayna dili)
   - Yazılı rbaycan dili - Ukrayna diliüzrə )
 
 ---
@@ -7744,8 +7178,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (çex dili)
+  - tətətətətərcümə
+  - tətətətətərcümə (çex dili)
   - Yazılı rbaycan dili- çex diliüzrə )
 
 ---
@@ -7761,8 +7195,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (bolqar dili)
+  - tətətətətərcümə
+  - tətətətətərcümə (bolqar dili)
 
 ---
 
@@ -7777,16 +7211,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
+  - tətətətətərcümə
   - (Koreya diliüzrə )
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dillər Universiteti | Tərcümə (koreya dili üzrə) | None | 50 |
-
-</details>
 
 ---
 
@@ -7801,8 +7227,8 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - tətərcümə
-  - tətərcümə (Koreya dili)
+  - tətətətətərcümə
+  - tətətətətərcümə (Koreya dili)
 - ** `060803` Turizm və otelçilik**
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
@@ -7844,8 +7270,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Beynəlxalq jurnalistika | 59.5 | 59.5 |
-| Azərbaycan Texniki Universiteti | Beynəlxalq logistika | 74 | 45 |
-| Azərbaycan Dövlət İqtisad Universiteti | Beynəlxalq logistika | None | 53.5 |
 | Naxçıvan Dövlət Universiteti | Beynəlxalq jurnalistika | None | 50 |
 | Bakı Dövlət Universiteti | Mətbuat tarixi | 58.5 | 50 |
 | Bakı Dövlət Universiteti | Publisistik jurnalistika | 51.5 | 50 |
@@ -7858,7 +7282,9 @@ if match:
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi İngilis dilində | None | 40 |
 | Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
 | Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
-| *... və daha 6 təhsil müəssisəsi* | | | |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
+| Bakı Dövlət Universiteti | Televiziya və radio yayımları menecmenti | 67 | 67 |
+| *... və daha 4 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -7885,14 +7311,10 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Publisistik jurnalistika | 51.5 | 50 |
-| Bakı Dövlət Universiteti | İdman jurnalistikası | 53.5 | 50 |
-| Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdman jurnalistikası | None | 50 |
 | Bakı Dövlət Universiteti | Beynəlxalq jurnalistika | 59.5 | 59.5 |
-| Azərbaycan Texniki Universiteti | Beynəlxalq logistika | 74 | 45 |
-| Azərbaycan Dövlət İqtisad Universiteti | Beynəlxalq logistika | None | 53.5 |
 | Naxçıvan Dövlət Universiteti | Beynəlxalq jurnalistika | None | 50 |
 | Bakı Dövlət Universiteti | Mətbuat tarixi | 58.5 | 50 |
+| Bakı Dövlət Universiteti | Publisistik jurnalistika | 51.5 | 50 |
 | Bakı Dövlət Universiteti | Media və kommunikasiya sistemləri | 56 | 55 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Çoxkanallı telekommunikasiya sistemləri | 49 | 40 |
 | Azərbaycan Texniki Universiteti | Çoxkanalh telekommunikasiya sistemləri | 52.5 | 52.5 |
@@ -7900,7 +7322,11 @@ if match:
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları İngilis dilində | 71 | 71 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi | None | 40 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi İngilis dilində | None | 40 |
-| *... və daha 5 təhsil müəssisəsi* | | | |
+| Milli Aviasiya Akademiyası | Aerokosmik telekommunikasiyaasistemləri | 52 | 52 |
+| Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
+| Bakı Dövlət Universiteti | Televiziya və radio yayımları menecmenti | 67 | 67 |
+| *... və daha 1 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -7966,22 +7392,15 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Tarixin tədrisi | 63 | 60 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Tarixin tədrisi | None | 51 |
-| Naxçıvan Dövlət Universiteti | Tarixin tədrisi | None | 44.5 |
-| Gəncə Dövlət Universiteti | Tarixin tədrisi | None | 47 |
-| Sumqayıt Dövlət Universiteti | Tarixin tədrisi | None | 46 |
-| Mingəçevir Dövlət Universiteti | Tarixin tədrisi | 65 | 43 |
-| Lənkəran Dövlət Universiteti | Tarixin tədrisi | 73.5 | 42.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinlərin tarixi | 55.5 | None |
 | Bakı Dövlət Universiteti | Qədim dünya tarixi | 62.5 | 62.5 |
 | Bakı Dövlət Universiteti | Etnologiya və etnoqrafiya | None | 56 |
 | Bakı Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi | 69.5 | 69.5 |
-| Bakı Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi İngilis dilində | 70 | 70 |
 | Gəncə Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi | 61.5 | 50 |
 | Bakı Dövlət Universiteti | Türk dünyası tarixi | 65 | 65 |
 | Naxçıvan Dövlət Universiteti | Türk dünyası tarixi | None | 50 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | Türk dünyası tarixi | None | 50 |
+| Bakı Dövlət Universiteti | Qafqaz xalqlarının tarixi | 63.5 | 63.5 |
+| Qərbi Kaspi Universiteti | Qafqaz xalqlarının tarixi | None | 50 |
 
 </details>
 
@@ -8012,7 +7431,6 @@ if match:
 | Bakı Dövlət Universiteti | Qədim dünya tarixi | 62.5 | 62.5 |
 | Bakı Dövlət Universiteti | Etnologiya və etnoqrafiya | None | 56 |
 | Bakı Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi | 69.5 | 69.5 |
-| Bakı Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi İngilis dilində | 70 | 70 |
 | Gəncə Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi | 61.5 | 50 |
 | Bakı Dövlət Universiteti | Türk dünyası tarixi | 65 | 65 |
 | Naxçıvan Dövlət Universiteti | Türk dünyası tarixi | None | 50 |
@@ -8052,22 +7470,15 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Tarixin tədrisi | 63 | 60 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Tarixin tədrisi | None | 51 |
-| Naxçıvan Dövlət Universiteti | Tarixin tədrisi | None | 44.5 |
-| Gəncə Dövlət Universiteti | Tarixin tədrisi | None | 47 |
-| Sumqayıt Dövlət Universiteti | Tarixin tədrisi | None | 46 |
-| Mingəçevir Dövlət Universiteti | Tarixin tədrisi | 65 | 43 |
-| Lənkəran Dövlət Universiteti | Tarixin tədrisi | 73.5 | 42.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinlərin tarixi | 55.5 | None |
 | Bakı Dövlət Universiteti | Qədim dünya tarixi | 62.5 | 62.5 |
 | Bakı Dövlət Universiteti | Etnologiya və etnoqrafiya | None | 56 |
 | Bakı Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi | 69.5 | 69.5 |
-| Bakı Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi İngilis dilində | 70 | 70 |
 | Gəncə Dövlət Universiteti | Avropa və Amerikanın yeni və ən yeni tarixi | 61.5 | 50 |
 | Bakı Dövlət Universiteti | Türk dünyası tarixi | 65 | 65 |
 | Naxçıvan Dövlət Universiteti | Türk dünyası tarixi | None | 50 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | Türk dünyası tarixi | None | 50 |
+| Bakı Dövlət Universiteti | Qafqaz xalqlarının tarixi | 63.5 | 63.5 |
+| Qərbi Kaspi Universiteti | Qafqaz xalqlarının tarixi | None | 50 |
 
 </details>
 
@@ -8102,7 +7513,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Milli təhlükəsizlik və siyasi strategiya | 67 | 59 |
 | Bakı Dövlət Universiteti | Konfliktologiya | None | 50 |
-| Xəzər Universiteti | Konfliktologiya İngilis dilində | None | 50 |
 
 </details>
 
@@ -8132,29 +7542,6 @@ if match:
   - Universiteti ilə ikili diplom proqramı)
 - ** `060208` Politologiya**
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Regionşünaslıq (Qafqaz ölkələri üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (İsrail və Yaxın Şərq üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (Skandinaviya üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (Qafqaz üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (ABŞ üzrə) | None | 50 |
-| Azərbaycan Dillər Universiteti | Regionşünaslıq (Böyük Britaniya üzrə) | None | 50 |
-| Bakı Avrasiya Universiteti | Regionşünaslıq (ABŞ və Kanada üzrə) | None | 50 |
-| Bakı Dövlət Universiteti | Beynəlxalq münasibətlər və diplomatiya | 71 | 55 |
-| Bakı Dövlət Universiteti | Beynəlxalq münasibətlər və diplomatiya İngilis dilində | 68.5 | 51.5 |
-| Azərbaycan Dillər Universiteti | Beynəlxalq münasibətlər və diplomatiya | 72 | 54 |
-| Bakı Slavyan Universiteti | Beynəlxalq münasibətlər və diplomatiya | None | 57 |
-| Bakı Slavyan Universiteti | Beynəlxalq münasibətlər və diplomatiya İngilis dilində | None | 50 |
-| Bakı Mühəndislik Universiteti | Beynəlxalq münasibətlər və diplomatiya | None | 50 |
-| Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası | Beynəlxalq münasibətlər və diplomatiya | 72 | 72 |
-| Naxçıvan Dövlət Universiteti | Beynəlxalq münasibətlər və diplomatiya | 71.5 | 50 |
-| *... və daha 5 təhsil müəssisəsi* | | | |
-
-</details>
-
 ---
 
 #### Blok 3 (Minimal bal: `50`, Səhifə: 48)
@@ -8175,26 +7562,6 @@ if match:
   - Müasir dövrdə Yaxı rinin xarici siyasə ti
 - ** `060208` Politologiya**
   - rbaycanda siyasi proseslə r
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Beynəlxalq münasibətlər və diplomatiya | 71 | 55 |
-| Bakı Dövlət Universiteti | Beynəlxalq münasibətlər və diplomatiya İngilis dilində | 68.5 | 51.5 |
-| Azərbaycan Dillər Universiteti | Beynəlxalq münasibətlər və diplomatiya | 72 | 54 |
-| Bakı Slavyan Universiteti | Beynəlxalq münasibətlər və diplomatiya | None | 57 |
-| Bakı Slavyan Universiteti | Beynəlxalq münasibətlər və diplomatiya İngilis dilində | None | 50 |
-| Bakı Mühəndislik Universiteti | Beynəlxalq münasibətlər və diplomatiya | None | 50 |
-| Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası | Beynəlxalq münasibətlər və diplomatiya | 72 | 72 |
-| Naxçıvan Dövlət Universiteti | Beynəlxalq münasibətlər və diplomatiya | 71.5 | 50 |
-| Qərbi Kaspi Universiteti | Beynəlxalq münasibətlər və diplomatiya | None | 50 |
-| Qərbi Kaspi Universiteti | Beynəlxalq münasibətlər və diplomatiya İngilis dilində | None | 50 |
-| Xəzər Universiteti | Beynəlxalq münasibətlər və diplomatiya İngilis dilində | 68 | 50 |
-| Bakı Avrasiya Universiteti | Beynəlxalq münasibətlər və diplomatiya | None | 50 |
-| Bakı Dövlət Universiteti | Müasir dövrdə Uzaq Şərq dövlətlərinin xarici siyasəti | None | 50 |
-
-</details>
 
 ---
 
@@ -8221,22 +7588,14 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| Xəzər Universiteti | Tətbiqi psixologiya | 67.5 | 52 |
-| “Odlar Yurdu” Universiteti | Təhsil psixologiyası | None | 50 |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
 | Bakı Dövlət Universiteti | Klinik (tibbi) psixologiya | 71 | 71 |
-| *... və daha 21 təhsil müəssisəsi* | | | |
+| Azərbaycan Tibb Universiteti | Klinik (tibbi) psixologiya | 77.5 | 77.5 |
+| Qərbi Kaspi Universiteti | Klinik (tibbi) psixologiya | 68 | 64.5 |
+| Xəzər Universiteti | Klinik (tibbi) psixologiya | 70 | 70 |
+| “Odlar Yurdu” Universiteti | Klinik (tibbi) psixologiya | 68 | 62.5 |
+| Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
+| Bakı Dövlət Universiteti | Molekulyar biologiya İngilis dilində | 70 | 70 |
+| Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 
 </details>
 
@@ -8267,21 +7626,14 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
 | Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| Xəzər Universiteti | Tətbiqi psixologiya | 67.5 | 52 |
-| “Odlar Yurdu” Universiteti | Təhsil psixologiyası | None | 50 |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
 | Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
-| *... və daha 6 təhsil müəssisəsi* | | | |
+| Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
+| Bakı Dövlət Universiteti | Klinik (tibbi) psixologiya | 71 | 71 |
+| Azərbaycan Tibb Universiteti | Klinik (tibbi) psixologiya | 77.5 | 77.5 |
+| Qərbi Kaspi Universiteti | Klinik (tibbi) psixologiya | 68 | 64.5 |
+| Xəzər Universiteti | Klinik (tibbi) psixologiya | 70 | 70 |
+| “Odlar Yurdu” Universiteti | Klinik (tibbi) psixologiya | 68 | 62.5 |
 
 </details>
 
@@ -8319,13 +7671,6 @@ if match:
 | “Odlar Yurdu” Universiteti | Klinik (tibbi) psixologiya | 68 | 62.5 |
 | Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
 | Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| *... və daha 5 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -8355,19 +7700,6 @@ if match:
 | Bakı Dövlət Universiteti | Əmək və sosial təminat hüququ | 71.5 | 71 |
 | Dövlət Gömrük Komitəsinin Akademiyası | Beynəlxalq iqtisadi hüquq | None | 65.5 |
 | Bakı Dövlət Universiteti | Mədəniyyət hüququ | None | 56.5 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| Xəzər Universiteti | Tətbiqi psixologiya | 67.5 | 52 |
-| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -8395,21 +7727,15 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası İngilis dilində | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
 | Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Gəncə Dövlət Universiteti | Texnologiyanın tədrisi | None | 44 |
-| Lənkəran Dövlət Universiteti | Texnologiyanın tədrisi | None | 41 |
-| Lənkəran Dövlət Universiteti | Kənd təsərrüfatı bitkilərinin biotexnologiyası | 32 | 32 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| *... və daha 16 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Klinik (tibbi) psixologiya | 71 | 71 |
+| Azərbaycan Tibb Universiteti | Klinik (tibbi) psixologiya | 77.5 | 77.5 |
+| Qərbi Kaspi Universiteti | Klinik (tibbi) psixologiya | 68 | 64.5 |
+| Xəzər Universiteti | Klinik (tibbi) psixologiya | 70 | 70 |
+| “Odlar Yurdu” Universiteti | Klinik (tibbi) psixologiya | 68 | 62.5 |
+| Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
+| Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
 
 </details>
 
@@ -8439,21 +7765,15 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Nanobiotexnologiya İngilis dilində | None | 45 |
 | Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası İngilis dilində | None | 45 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
 | Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Gəncə Dövlət Universiteti | Texnologiyanın tədrisi | None | 44 |
-| Lənkəran Dövlət Universiteti | Texnologiyanın tədrisi | None | 41 |
-| Lənkəran Dövlət Universiteti | Kənd təsərrüfatı bitkilərinin biotexnologiyası | 32 | 32 |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| *... və daha 16 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Klinik (tibbi) psixologiya | 71 | 71 |
+| Azərbaycan Tibb Universiteti | Klinik (tibbi) psixologiya | 77.5 | 77.5 |
+| Qərbi Kaspi Universiteti | Klinik (tibbi) psixologiya | 68 | 64.5 |
+| Xəzər Universiteti | Klinik (tibbi) psixologiya | 70 | 70 |
+| “Odlar Yurdu” Universiteti | Klinik (tibbi) psixologiya | 68 | 62.5 |
+| Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
+| Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
 
 </details>
 
@@ -8479,22 +7799,14 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Sosial psixologiya | 68.5 | 68.5 |
-| Bakı Dövlət Universiteti | Məhkəmə psixologiyası | 70.5 | 70.5 |
-| Bakı Dövlət Universiteti | Təhsil psixologiyası | 68 | 56 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil psixologiyası | None | 50 |
-| Azərbaycan Dillər Universiteti | Təhsil psixologiyası | None | 50 |
-| Bakı Slavyan Universiteti | Təhsil psixologiyası | None | 53 |
-| Naxçıvan Müəllimlər İnstitutu | Təhsil psixologiyası | None | 50 |
-| Sumqayıt Dövlət Universiteti | Təhsil psixologiyası | None | 50 |
-| “Azərbaycan” Universiteti | Təhsil psixologiyası | None | 50 |
-| Qərbi Kaspi Universiteti | Sosial psixologiya | 78 | 50 |
-| Qərbi Kaspi Universiteti | Məhkəmə psixologiyası | 69 | 50 |
-| Xəzər Universiteti | Tətbiqi psixologiya | 67.5 | 52 |
-| “Odlar Yurdu” Universiteti | Təhsil psixologiyası | None | 50 |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
 | Bakı Dövlət Universiteti | Klinik (tibbi) psixologiya | 71 | 71 |
-| *... və daha 19 təhsil müəssisəsi* | | | |
+| Azərbaycan Tibb Universiteti | Klinik (tibbi) psixologiya | 77.5 | 77.5 |
+| Qərbi Kaspi Universiteti | Klinik (tibbi) psixologiya | 68 | 64.5 |
+| Xəzər Universiteti | Klinik (tibbi) psixologiya | 70 | 70 |
+| “Odlar Yurdu” Universiteti | Klinik (tibbi) psixologiya | 68 | 62.5 |
+| Bakı Dövlət Universiteti | Molekulyar biologiya | 72.5 | 72.5 |
+| Bakı Dövlət Universiteti | Molekulyar biologiya İngilis dilində | 70 | 70 |
+| Qərbi Kaspi Universiteti | Molekulyar biologiya | 61.5 | 61.5 |
 
 </details>
 
@@ -8531,8 +7843,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Cinayət prosesi, kriminalistika, məlikəmə ekspertizası və əməliyyat-axtarış fəaliyyəti | 79.5 | 79.5 |
-| Naxçıvan Dövlət Universiteti | Cinayət prosesi, kriminalistika, məhkəmə ekspertizası və əməliyyat-axtarış fəaliyyəti | 77 | 67.5 |
 | Bakı Dövlət Universiteti | İnsan haqları hüququ | 73.5 | 67 |
 | Bakı Dövlət Universiteti | Transmilli cinayət hüququ | 73 | 73 |
 | Bakı Dövlət Universiteti | İnformasiya hüququ | 71 | 67.5 |
@@ -8566,12 +7876,12 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Musiqi Akademiyası | Etnomusiqişünaslıq | 49.5 | 43 |
-| Azərbaycan Milli Konservatoriyası | Etnomusiqişünaslıq | 49 | 43 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Etnomusiqişünaslıq | None | 45 |
 | Bakı Musiqi Akademiyası | Musiqi tarixi və nəzəriyyəsi | 50 | 50 |
 | Azərbaycan Milli Konservatoriyası | Musiqi tarixi və nəzəriyyəsi | 49 | 48.5 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Musiqi tarixi və nəzəriyyəsi | 50.5 | 47.5 |
+| Bakı Musiqi Akademiyası | Etnomusiqişünaslıq | 49.5 | 43 |
+| Azərbaycan Milli Konservatoriyası | Etnomusiqişünaslıq | 49 | 43 |
+| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Etnomusiqişünaslıq | None | 45 |
 
 </details>
 
@@ -8767,10 +8077,6 @@ if match:
 | Bakı Dövlət Universiteti | İqlimşünaslıq | None | 45 |
 | Milli Aviasiya Akademiyası | İqlimşünaslıq | 48.5 | 48.5 |
 | Azərbaycan İlahiyyat İnstitutu | Dinlərin tarixi | 55.5 | None |
-| Bakı Dövlət Universiteti | İnkişaf psixologiyası | 68 | 60 |
-| Naxçıvan Dövlət Universiteti | İnkişaf psixologiyası | 70 | 58 |
-| Azərbaycan İlahiyyat İnstitutu | Dinin sosiologiyası | 50 | None |
-| “Odlar Yurdu” Universiteti | Ailə psixologiyası | None | 53.5 |
 
 </details>
 
@@ -8798,13 +8104,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikologiya | 65.5 | 65.5 |
-| Bakı Dövlət Universiteti | Ekologiya hüququ | None | 57 |
-| Gəncə Dövlət Universiteti | Mikologiya | 47 | 47 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 | Bakı Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | 61.5 | 61.5 |
 | Gəncə Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
@@ -8833,20 +8132,6 @@ if match:
   - Balıqç ılı sə rrüfatıişi
 - ** `060510` Ekologiya**
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikologiya | 65.5 | 65.5 |
-| Bakı Dövlət Universiteti | Ekologiya hüququ | None | 57 |
-| Gəncə Dövlət Universiteti | Mikologiya | 47 | 47 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
-
-</details>
-
 ---
 
 #### Blok 3 (Minimal bal: `30`, Səhifə: 26)
@@ -8873,9 +8158,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdmanda tibbi-bioloji təminat | 59 | 59 |
-| Bakı Dövlət Universiteti | Torpaqşünaslıq | 54.5 | 54.5 |
-| Naxçıvan Dövlət Universiteti | Torpaqşünaslıq | 43.5 | 30 |
-| Lənkəran Dövlət Universiteti | Torpaqşünaslıq | 40.5 | 30 |
 
 </details>
 
@@ -8970,14 +8252,6 @@ if match:
   - aft bağ çılığ ı riyyə si tşünaslıq
   - rinin bə rpası və ekspertizası
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Memarlıq və İnşaat Universiteti | Vizual dizayn | 52 | 30 |
-
-</details>
-
 ---
 
 #### Blok 6 (Minimal bal: `30`, Səhifə: 46)
@@ -9055,11 +8329,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
 | Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Biologiyanın tədrisi | 63 | 53 |
-| Naxçıvan Dövlət Universiteti | Biologiyanın tədrisi | 70.5 | 40 |
-| Gəncə Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
-| Sumqayıt Dövlət Universiteti | Biologiyanın tədrisi | None | 42.5 |
-| Lənkəran Dövlət Universiteti | Biologiyanın tədrisi | None | 40 |
 | Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
 | “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
@@ -9068,7 +8337,11 @@ if match:
 | Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 65 | 45 |
 | Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
 | Milli Aviasiya Akademiyası | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61 | 61 |
-| *... və daha 10 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
+| Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
+| Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
 
 </details>
 
@@ -9146,7 +8419,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Respublikası Gənclər və İdman Nazirliyinin Azərbaycan İdman Akademiyası | İdmanda tibbi-bioloji təminat | 59 | 59 |
-| Azərbaycan Tibb Universiteti | İdman tibbi və reabilitasiyası | 64.5 | 64.5 |
 
 </details>
 
@@ -9268,8 +8540,8 @@ if match:
 | Azərbaycan Tibb Universiteti | Əczaçılıq kimyası | 67 | 67 |
 | Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası | 40.5 | 40 |
 | Azərbaycan Texniki Universiteti | Maşınqayırma texnologiyası İngilis dilində | None | 40 |
-| Azərbaycan Texniki Universiteti | Maşınqayırmada kompüter texnologiyaları | 44.5 | 44.5 |
 | Azərbaycan Texniki Universiteti | Cihazqayırma texnologiyası | 53 | 45.5 |
+| Azərbaycan Texniki Universiteti | Maşınqayırmada kompüter texnologiyaları | 44.5 | 44.5 |
 | Azərbaycan Texniki Universiteti | Maşınqayırmada kompüter texnologiyaları İngilis dilində | 51.5 | 40 |
 
 </details>
@@ -9329,7 +8601,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 | Azərbaycan Tibb Universiteti | Əczaçılıq kimyası | 67 | 67 |
 | Azərbaycan Tibb Universiteti | Farmakoqnoziya | 55 | 55 |
 
@@ -9440,14 +8711,6 @@ if match:
   - riüzrə ) Avtomobil servisinin texnologiyası
   - mir yolu nə qliyyatı tinin təş kili
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Texniki Universiteti | Avtomobil nəqliyyatında servis texnologiyaları | 43.5 | 43.5 |
-
-</details>
-
 ---
 
 ### Proqram № 58
@@ -9478,14 +8741,10 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Kvant elektronikası | 58.5 | 58.5 |
-| Azərbaycan Texniki Universiteti | Sənaye elektronikası | 42 | 40 |
 | Azərbaycan Texniki Universiteti | Güc elektronikası | 43 | 40 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Güc elektronikası | 43.5 | 40 |
-| Sumqayıt Dövlət Universiteti | Sənaye elektronikası | 69 | 40 |
 | Xəzər Universiteti | Güc elektronikası İngilis dilində | None | 40 |
 | Milli Aviasiya Akademiyası | Uçuş aparatları və güc qurğuları | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Uçuş aparatlarının elektrik avadanlıqları və sistemləri | 65.5 | 65.5 |
 
 </details>
 
@@ -9511,7 +8770,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Milli Aviasiya Akademiyası | Hava nəqliyyatı hərəkətinin idarə olunması İngilis dilində | None | 40 |
 | Milli Aviasiya Akademiyası | Aeronaviqasiya təminatı İngilis dilində | 74 | 40 |
 
 </details>
@@ -9540,12 +8798,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Milli Aviasiya Akademiyası | Hava gəmilərinin uçuş istismarı İngilis dilində | None | 40 |
-| Bakı Dövlət Universiteti | Fizikanın tədrisi | 69 | 69 |
-| Bakı Dövlət Universiteti | Biofizika | 69.5 | 69.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Fizikanın tədrisi | 63 | 47 |
-| Gəncə Dövlət Universiteti | Fizikanın tədrisi | None | 40.5 |
-| Sumqayıt Dövlət Universiteti | Fizikanın tədrisi | 71.5 | 43.5 |
-| Lənkəran Dövlət Universiteti | Fizikanın tədrisi | None | 40 |
 | Bakı Dövlət Universiteti | Riyazi fizika | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Nəzəri və riyazi fizika | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Bərk cisimlər fizikası | 64 | 64 |
@@ -9573,7 +8825,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Milli Aviasiya Akademiyası | Uçuş aparatları və güc qurğuları | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Uçuş aparatlarının elektrik avadanlıqları və sistemləri | 65.5 | 65.5 |
 
 </details>
 
@@ -9599,7 +8850,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Milli Aviasiya Akademiyası | Uçuş aparatları və güc qurğuları | 52.5 | 52.5 |
-| Milli Aviasiya Akademiyası | Uçuş aparatlarının elektrik avadanlıqları və sistemləri | 65.5 | 65.5 |
 
 </details>
 
@@ -9620,15 +8870,6 @@ if match:
 
 - ** Magistratura ixtisaslaşması**
   - texnologiyalar mühəndisliyi sistemlə ri
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
-
-</details>
 
 ---
 
@@ -9655,7 +8896,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Qeyri-üzvi maddələrin istehsal texnologiyası | 55.5 | 53.5 |
 | Azərbaycan Texniki Universiteti | Atıcı artilleriya və raket silahlarının istehsal texnologiyası | 45.5 | None |
 
 </details>
@@ -9702,12 +8942,8 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Texnologiyanın tədrisi | None | 48.5 |
-| Naxçıvan Dövlət Universiteti | Texnologiyanın tədrisi | None | 45.5 |
-| Gəncə Dövlət Universiteti | Texnologiyanın tədrisi | None | 44 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Alkoqollu içkilərin texnologiyası | None | 40 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Alkoqolsuz və az alkoqollu içkilərin texnologiyası | None | 40 |
-| Lənkəran Dövlət Universiteti | Texnologiyanın tədrisi | None | 41 |
 
 </details>
 
@@ -9886,9 +9122,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Milli Konservatoriyası | Populyar musiqi və caz ifaçılığı (vokal, tar, kamança, qanun, balaban,fortepiano, violin, akkordeon, saksofon, klarnet, fleyta, qoboy, truba, gitara, zərb alətləri) | 39.5 | 39.5 |
-| Bakı Musiqi Akademiyası | Etnomusiqişünaslıq | 49.5 | 43 |
-| Azərbaycan Milli Konservatoriyası | Etnomusiqişünaslıq | 49 | 43 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Etnomusiqişünaslıq | None | 45 |
 
 </details>
 
@@ -9924,16 +9157,6 @@ if match:
 - ** `060305` Dirijorluq**
   - rüzrə ) stə karlıq stə karlıq
 - ** `060307` Musiqişünasl q**
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Musiqi Akademiyası | Etnomusiqişünaslıq | 49.5 | 43 |
-| Azərbaycan Milli Konservatoriyası | Etnomusiqişünaslıq | 49 | 43 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Etnomusiqişünaslıq | None | 45 |
-
-</details>
 
 ---
 
@@ -10195,7 +9418,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Dəzgah qrafikası | 33 | 30 |
 | Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Kitab tərtibatı və illüstrasiyası | None | 30 |
 
 </details>
@@ -10249,14 +9471,6 @@ if match:
 - ** `060321` Dizayn**
   - rüzrə ) Dizayn (Sə naye dizaynı, Qrafik dizaynı, Geyim dizaynı İnteryerüzrə riüzrə )
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Rəssamlıq Akademiyası | Dizayn (interyer dizaynı, sənaye dizaynı, qrafik dizayn, geyim dizaynı, tekstil dizaynı, landşaft dizaynı) | 51 | 31 |
-
-</details>
-
 ---
 
 #### Blok 7 (Minimal bal: `30`, Səhifə: 46)
@@ -10274,14 +9488,6 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - rüzrə ) Dizayn (Sə naye dizaynı, Qrafik dizaynı, Geyim dizaynı İnteryerüzrə riüzrə )
 
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Rəssamlıq Akademiyası | Dizayn (interyer dizaynı, sənaye dizaynı, qrafik dizayn, geyim dizaynı, tekstil dizaynı, landşaft dizaynı) | 51 | 31 |
-
-</details>
-
 ---
 
 #### Blok 8 (Minimal bal: `30`, Səhifə: 51)
@@ -10297,18 +9503,6 @@ if match:
 
 - ** `060321` Dizayn**
   - rüzrə ) Dizayn (Geyim dizaynı, Sə naye dizaynı)
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət İqtisad Universiteti | Geyim dizaynı | None | 30 |
-| Bakı Mühəndislik Universiteti | Sənaye dizaynı | None | 30 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Geyim dizaynı | 32 | 30 |
-| Azərbaycan Dövlət Mədəniyyət və İncəsənət Universiteti | Sənaye dizaynı | None | 30 |
-| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Sənaye dizaynı | 59.5 | 50 |
-
-</details>
 
 ---
 
@@ -10430,21 +9624,6 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Meliorasiya, rekultivasiya və torpaq mühafizəsi | 58.5 | 46.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | 58.5 | 44 |
-| Azərbaycan Texniki Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 58 | 56 |
-| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 65 | 45 |
-| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| Milli Aviasiya Akademiyası | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61 | 61 |
-| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
-| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| Sumqayıt Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 44.5 |
-| Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
-| Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikologiya | 65.5 | 65.5 |
-| *... və daha 4 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -10490,7 +9669,7 @@ if match:
 | Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| *... və daha 15 təhsil müəssisəsi* | | | |
+| *... və daha 5 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -10551,10 +9730,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Tətbiqi riyaziyyat | 66 | 66 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tətbiqi riyaziyyat | 63.5 | 63.5 |
-| Bakı Dövlət Universiteti | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 67 | 67 |
-| Azərbaycan Texniki Universiteti | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 64 | 64 |
-| Azərbaycan Dövlət İqtisad Universiteti | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 73 | 73 |
-| Azərbaycan Respublikası Prezidenti yanında Dövlət İdarəçilik Akademiyası | İqtisadiyyatda optimal idarəetmənin riyazi üsulları | 78 | 78 |
 | Bakı Dövlət Universiteti | Riyaziyyatın tədrisi | 78.5 | 78.5 |
 | Azərbaycan Dövlət Pedaqoji Universiteti | Riyaziyyatın tədrisi | 62.5 | 60.5 |
 | Naxçıvan Müəllimlər İnstitutu | Riyaziyyatın tədrisi | None | 42.5 |
@@ -10564,7 +9739,11 @@ if match:
 | Lənkəran Dövlət Universiteti | Riyaziyyatın tədrisi | 66 | 40 |
 | Azərbaycan Texniki Universiteti | İntellektual sistemlər | 70.5 | 70.5 |
 | Azərbaycan Texniki Universiteti | İntellektual sistemlər İngilis dilində | 68.5 | 68.5 |
-| *... və daha 39 təhsil müəssisəsi* | | | |
+| Azərbaycan Dövlət İqtisad Universiteti | İntellektual sistemlər | 76.5 | 76.5 |
+| Gəncə Dövlət Universiteti | İntellektual sistemlər | 57.5 | 57.5 |
+| Xəzər Universiteti | İntellektual sistemlər İngilis dilində | 65.5 | 65.5 |
+| Bakı Dövlət Universiteti | İdarəetmədə informasiya sistemləri | 71.5 | 71.5 |
+| *... və daha 19 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -10597,22 +9776,11 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) | None | 40 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları | 64.5 | 64.5 |
-| Azərbaycan Texniki Universiteti | Logistikada informasiya texnologiyaları İngilis dilində | 65 | 65 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar | 57.5 | 57.5 |
-| Bakı Mühəndislik Universiteti | Kimya mühəndisliyində yaşıl texnologiyalar İngilis dilində | 65 | 63.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 67.5 | 67.5 |
 | Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları İngilis dilində | 71 | 71 |
-| Azərbaycan Texniki Universiteti | Telekommunikasiya sistemlərinin informasiya təhlükəsizliyi | None | 40 |
 | Naxçıvan Dövlət Universiteti | Telekommunikasiya sistemlərində informasiya texnologiyaları | 57 | 57 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Telekommunikasiya sistemlərində informasiya texnologiyaları | 51 | 51 |
-| Bakı Dövlət Universiteti | İdarəetmədə informasiya sistemləri | 71.5 | 71.5 |
-| Bakı Dövlət Universiteti | Kitabxana informasiya-axtarış sistemləri | None | 50 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İdarəetmədə informasiya sistemləri | 70 | 70 |
-| Azərbaycan Dövlət Neft və Sənaye Universiteti | İnformasiya sistemlərinin təhlükəsizliyi (sahələr üzrə) İngilis dilində | 75 | 51.5 |
-| Azərbaycan Texniki Universiteti | İdarəetmədə informasiya sistemləri | 72 | 72 |
-| *... və daha 16 təhsil müəssisəsi* | | | |
+| Milli Aviasiya Akademiyası | Aerokosmik informasiya sistemləri | 63.5 | 63.5 |
 
 </details>
 
@@ -10645,7 +9813,6 @@ if match:
 | Bakı Dövlət Universiteti | Optoelektronika | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | Yüksək enerjilər fizikası | 61 | 61 |
 | Bakı Dövlət Universiteti | Radiasiya materialşünaslığı | 58.5 | 58.5 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | İnşaat materialşünaslığı | 52.5 | 52.5 |
 
 </details>
 
@@ -10706,7 +9873,7 @@ if match:
 | Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
 | Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
-| *... və daha 15 təhsil müəssisəsi* | | | |
+| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -10735,8 +9902,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
 
 </details>
 
@@ -10787,13 +9952,6 @@ if match:
 
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikologiya | 65.5 | 65.5 |
-| Bakı Dövlət Universiteti | Ekologiya hüququ | None | 57 |
-| Gəncə Dövlət Universiteti | Mikologiya | 47 | 47 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 | Bakı Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | 61.5 | 61.5 |
 | Gəncə Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
 | Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
@@ -10802,7 +9960,14 @@ if match:
 | “Odlar Yurdu” Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61.5 | 61.5 |
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | 58.5 | 44 |
-| *... və daha 9 təhsil müəssisəsi* | | | |
+| Azərbaycan Texniki Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 58 | 56 |
+| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 65 | 45 |
+| Bakı Mühəndislik Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
+| Milli Aviasiya Akademiyası | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | 61 | 61 |
+| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 43 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması | None | 42.5 |
+| Azərbaycan Texnologiya Universiteti (Gəncə şəhəri) | Ətraf mühitin mühafizəsi və təbii ehtiyatlardan səmərəli istifadə olunması İngilis dilində | None | 40 |
+| *... və daha 2 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -10842,13 +10007,9 @@ if match:
 | Sumqayıt Dövlət Universiteti | Riyaziyyatın tədrisi | 73 | 53 |
 | Mingəçevir Dövlət Universiteti | Riyaziyyatın tədrisi | 69 | 41 |
 | Lənkəran Dövlət Universiteti | Riyaziyyatın tədrisi | 66 | 40 |
-| Bakı Dövlət Universiteti | Fizikanın tədrisi | 69 | 69 |
-| Bakı Dövlət Universiteti | Biofizika | 69.5 | 69.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Fizikanın tədrisi | 63 | 47 |
-| Gəncə Dövlət Universiteti | Fizikanın tədrisi | None | 40.5 |
-| Sumqayıt Dövlət Universiteti | Fizikanın tədrisi | 71.5 | 43.5 |
-| Lənkəran Dövlət Universiteti | Fizikanın tədrisi | None | 40 |
-| *... və daha 3 təhsil müəssisəsi* | | | |
+| Bakı Dövlət Universiteti | Riyazi fizika | 60.5 | 60.5 |
+| Bakı Dövlət Universiteti | Nəzəri və riyazi fizika | 60.5 | 60.5 |
+| Bakı Dövlət Universiteti | Bərk cisimlər fizikası | 64 | 64 |
 
 </details>
 
@@ -10878,7 +10039,6 @@ if match:
 | Bakı Dövlət Universiteti | Optoelektronika | 61.5 | 61.5 |
 | Bakı Dövlət Universiteti | Yüksək enerjilər fizikası | 61 | 61 |
 | Bakı Dövlət Universiteti | Radiasiya materialşünaslığı | 58.5 | 58.5 |
-| Azərbaycan Memarlıq və İnşaat Universiteti | İnşaat materialşünaslığı | 52.5 | 52.5 |
 
 </details>
 
@@ -11001,15 +10161,12 @@ if match:
 | Bakı Dövlət Universiteti | Nanomateriallar kimyası İngilis dilində | 70.5 | 70.5 |
 | Bakı Dövlət Universiteti | Materiallar kimyası | 60.5 | 60.5 |
 | Bakı Dövlət Universiteti | Kimyəvi ekspertiza | 73.5 | 73.5 |
-| Bakı Dövlət Universiteti | Aqroekologiya | 60 | 53.5 |
-| Bakı Dövlət Universiteti | Bioekologiya | 64 | 64 |
-| Bakı Dövlət Universiteti | Mikologiya | 65.5 | 65.5 |
-| Bakı Dövlət Universiteti | Ekologiya hüququ | None | 57 |
-| Gəncə Dövlət Universiteti | Mikologiya | 47 | 47 |
-| Qərbi Kaspi Universiteti | Bioekologiya | None | 45 |
-| “Odlar Yurdu” Universiteti | Bioekologiya | None | 45 |
 | Bakı Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | 61.5 | 61.5 |
-| *... və daha 5 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
+| Mingəçevir Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
+| Lənkəran Dövlət Universiteti | Ətraf mühitin mühafizə və bərpa metodları | 64.5 | 45 |
+| Qərbi Kaspi Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
+| “Odlar Yurdu” Universiteti | Ətraf mühitin mühafizə və bərpa metodları | None | 45 |
 
 </details>
 
@@ -11060,7 +10217,7 @@ if match:
 | Azərbaycan Dövlət Neft və Sənaye Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 58 | 43.5 |
 | Azərbaycan Texniki Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | None | 49 |
 | Azərbaycan Memarlıq və İnşaat Universiteti | Tullantıların emal texnologiyaları (sahələr üzrə) | 59.5 | 46 |
-| *... və daha 22 təhsil müəssisəsi* | | | |
+| *... və daha 5 təhsil müəssisəsi* | | | |
 
 </details>
 
@@ -11090,8 +10247,6 @@ if match:
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Bitkilərin genetikası və seleksiyası | 70 | 70 |
 | Bakı Dövlət Universiteti | Nanobiotexnologiya | None | 45 |
-| Bakı Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
-| Naxçıvan Dövlət Universiteti | Bitki biotexnologiyası | None | 45 |
 
 </details>
 
@@ -11153,21 +10308,6 @@ if match:
 - ** `060206` Tarix**
   - Azə rbaycanı srlə r tarixi
   - lə rinin tarixi
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Bakı Dövlət Universiteti | Tarixin tədrisi | 63 | 60 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Tarixin tədrisi | None | 51 |
-| Naxçıvan Dövlət Universiteti | Tarixin tədrisi | None | 44.5 |
-| Gəncə Dövlət Universiteti | Tarixin tədrisi | None | 47 |
-| Sumqayıt Dövlət Universiteti | Tarixin tədrisi | None | 46 |
-| Mingəçevir Dövlət Universiteti | Tarixin tədrisi | 65 | 43 |
-| Lənkəran Dövlət Universiteti | Tarixin tədrisi | 73.5 | 42.5 |
-| Azərbaycan İlahiyyat İnstitutu | Dinlərin tarixi | 55.5 | None |
-
-</details>
 
 ---
 
@@ -11234,7 +10374,7 @@ if match:
   - si və tarixi
   - Sosial pedaqogika və monitorinq
   - kili və metodikası(SABAH)
-  - də əədəəədəbiyyatımüəllimliyi
+  - də əədəəədəəədəəədəəədəbiyyatımüəllimliyi
 
 ---
 
@@ -11252,12 +10392,12 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** Magistratura ixtisaslaşması**
-  - əədəəədəbiyyatşünaslıq (türk xalqlarını dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslıq (Asiya xalqları dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslıq (Yaxı Ortaşə rq)
-  - əədəəədəbiyyatşünaslıq dəəədəəədəbiyyatı
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (türk xalqlarını dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (Asiya xalqları dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (Yaxı Ortaşə rq)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq dəəədəəədəəədəəədəəədəbiyyatı
   - Azə rbaycan dili
   - Dilşünaslıq (müqayisə li dilçilik)
 
@@ -11266,21 +10406,17 @@ if match:
 | Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
 | :--- | :--- | :--- | :--- |
 | Bakı Dövlət Universiteti | Ədəbiyyatşünaslıq (türk xalqları ədəbiyyatı üzrə) | None | 61.5 |
-| Bakı Dövlət Universiteti | Ədəbiyyatşünaslıq (türk ədəbiyyatı üzrə) | None | 50 |
 | Bakı Avrasiya Universiteti | Ədəbiyyatşünaslıq (türk xalqları ədəbiyyatı) | None | 50 |
-| Bakı Dövlət Universiteti | Azərbaycan dili və ədəbiyyatının tədrisi | 68.5 | 68.5 |
 | Bakı Dövlət Universiteti | Azərbaycan dili | 66 | 66 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təlim və tədrisin təşkili (tədris Azərbaycan dilində) | 66.5 | 66.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Təhsil menecmenti (tədris Azərbaycan dilində) | 73.5 | 56.5 |
-| Azərbaycan Dövlət Pedaqoji Universiteti | Azərbaycan dili və ədəbiyyatının tədrisi | 64.5 | 52.5 |
-| Azərbaycan Dillər Universiteti | Azərbaycan dili və ədəbiyyatının tədrisi | 62 | 62 |
 | Azərbaycan Dillər Universiteti | Azərbaycan dili | None | 53 |
-| Bakı Slavyan Universiteti | Azərbaycan dili və ədəbiyyatının tədrisi | 63 | 52.5 |
 | Bakı Slavyan Universiteti | Azərbaycan dili | None | 50.5 |
-| Naxçıvan Dövlət Universiteti | Azərbaycan dili və ədəbiyyatının tədrisi | None | 42 |
 | Naxçıvan Dövlət Universiteti | Azərbaycan dili | 70 | 50 |
-| Naxçıvan Müəllimlər İnstitutu | Azərbaycan dili və ədəbiyyatının tədrisi | None | 40 |
-| *... və daha 118 təhsil müəssisəsi* | | | |
+| Gəncə Dövlət Universiteti | Azərbaycan dili | 67.5 | 55 |
+| “Azərbaycan” Universiteti | Azərbaycan dili | None | 52 |
+| Xəzər Universiteti | Azərbaycan dili | None | 50 |
+| Bakı Avrasiya Universiteti | Azərbaycan dili | None | 50 |
+| “Odlar Yurdu” Universiteti | Azərbaycan dili | None | 50 |
+| Azərbaycan Dillər Universiteti | Müqayisəli dilçilik | None | 50 |
 
 </details>
 
@@ -11348,9 +10484,9 @@ if match:
 **Magistratura səviyyəsində seçilə bilən ixtisaslaşmalar:**
 
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslıq (xariciölkə xalqlarını dəəədəəədəbiyyatı dəəədəəədəbiyyatı
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (xariciölkə xalqlarını dəəədəəədəəədəəədəəədəbiyyatı dəəədəəədəəədəəədəəədəbiyyatı
 
 ---
 
@@ -11368,8 +10504,8 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - Dilşünaslıq (ingilis dili)
   - Dilşünaslıq (latın dili)
-  - əədəəədəbiyyat müəllimliyi
-  - dəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(ingilis dili və
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
+  - dəəədəəədəəədəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(ingilis dili və
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
@@ -11456,20 +10592,9 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - Ardıcı rbaycan dili-ingilis diliüzrə )
 - ** `060201` Filologiya**
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslı dəəədəəədəbiyyatı)
-  - əədəəədəbiyyatşünaslıq (xariciölkə xalqlarını dəəədəəədəbiyyatı dəəədəəədəbiyyatı
-
-<details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
-
-| Universitet | İxtisaslaşma | Ödənişsiz Bal | Ödənişli Bal |
-| :--- | :--- | :--- | :--- |
-| Azərbaycan Dillər Universiteti | Ədəbiyyatşünaslıq (ingilis ədəbiyyatı) | 65 | 50 |
-| “Azərbaycan” Universiteti | Ədəbiyyatşünaslıq (Amerika ədəbiyyatı) | None | 50 |
-| “Azərbaycan” Universiteti | Ədəbiyyatşünaslıq (ingilis ədəbiyyatı) | None | 50 |
-| Bakı Avrasiya Universiteti | Ədəbiyyatşünaslıq (Avropa ədəbiyyatı) | None | 50 |
-
-</details>
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslı dəəədəəədəəədəəədəəədəbiyyatı)
+  - əədəəədəəədəəədəəədəbiyyatşünaslıq (xariciölkə xalqlarını dəəədəəədəəədəəədəəədəbiyyatı dəəədəəədəəədəəədəəədəbiyyatı
 
 ---
 
@@ -11486,8 +10611,8 @@ if match:
 - ** Magistratura ixtisaslaşması**
   - Dilşünaslıq (ingilis dili)
   - Dilşünaslıq (latın dili)
-  - əədəəədəbiyyat müəllimliyi
-  - dəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(ingilis dili və
+  - əədəəədəəədəəədəəədəbiyyat müəllimliyi
+  - dəəədəəədəəədəəədəəədəbiyyatın tədrisi metodikası və metodologiyası(ingilis dili və
 
 <details><summary>Təhsil Müəssisələri və Keçid Balları (Universitetlər)</summary>
 
